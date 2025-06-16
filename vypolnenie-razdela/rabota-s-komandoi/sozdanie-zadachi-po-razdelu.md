@@ -4,7 +4,7 @@
 
 Для создания задачи необходимо открыть страницу раздела, перейти во вкладку _Задачи_ и нажать на кнопку **Создать задачу.**
 
-<figure><img src="../../.gitbook/assets/image (219).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (219).png" alt=""><figcaption></figcaption></figure>
 
 В открывшейся форме необходимо заполнить:&#x20;
 
@@ -12,7 +12,7 @@
 * Описание - содержание задачи;
 * Исходные данные - необходимые для выполнения файлы.
 
-<figure><img src="../../.gitbook/assets/image (218).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (218).png" alt=""><figcaption></figcaption></figure>
 
 Нажать на кнопку **Создать.**
 
@@ -22,21 +22,21 @@
 
 1. Нажав на "троеточие", в списке действий выбрать пункт меню **Опубликовать**.
 
-<figure><img src="../../.gitbook/assets/image (217).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (217).png" alt=""><figcaption></figcaption></figure>
 
 2\. Перейти в задачу, нажав на кнопку **Открыть**.
 
-<figure><img src="../../.gitbook/assets/image (220).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (220).png" alt=""><figcaption></figcaption></figure>
 
 И далее нажав на кнопку меню **Опубликовать**.
 
-<figure><img src="../../.gitbook/assets/image (221).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (221).png" alt=""><figcaption></figcaption></figure>
 
 Откроется модальная форма публикации задачи, которую необходимо заполнить.
 
 Чекбокс "Договорная стоимость" - стоимость задачи, которая устанавливается исполнителем, благодаря чему исполнитель и заказчик приходят к взаимному соглашению.
 
-<figure><img src="../../.gitbook/assets/image (222).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (222).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:orange;">**Примечание. Минимальная стоимость выполнения задачи не может быть менее 1000р.**</mark>
 
@@ -74,7 +74,7 @@
 
 Задачи сгруппированы по исполнителю, под ФИО исполнителя отображается краткая информация о количестве задач и их статусы: _просрочено, в работе, выполнено_.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (224).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (224).png" alt=""><figcaption></figcaption></figure>
 
 Перейти в задачу можно, нажав на кнопку **Открыть**.
 

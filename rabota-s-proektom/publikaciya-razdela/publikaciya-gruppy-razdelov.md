@@ -4,11 +4,11 @@
 
 Чтобы опубликовать группу разделов необходимо нажать на троеточие, далее на кнопку **Опубликовать группу**.
 
-<figure><img src="../../.gitbook/assets/image (286).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (286).png" alt=""><figcaption></figcaption></figure>
 
 В открывшейся форме необходимо заполнить критерии для публикации разделов. После заполнения нажать на кнопку **Далее**.
 
-<figure><img src="../../.gitbook/assets/image (287).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (287).png" alt=""><figcaption></figcaption></figure>
 
 По кнопке **Назад** вы перейдете на шаг назад для изменения данных в полях формы.
 
@@ -16,4 +16,4 @@
 
 После заполнения полей на второй странице формы, нажать на кнопку **Опубликовать.**
 
-<figure><img src="../../.gitbook/assets/image (288).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (288).png" alt=""><figcaption></figcaption></figure>

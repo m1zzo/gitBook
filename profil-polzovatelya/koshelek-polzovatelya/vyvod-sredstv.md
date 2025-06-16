@@ -4,13 +4,13 @@
 
 Для этого Пользователь в своем кошельке нажимает на кнопку **Вывести.**&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1245).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (1245).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:orange;">**Внимание. К данной услуге возможно обратиться только при полном указании информации в личном кабинете!**</mark>
 
 Заполняет форму вывода средств.
 
-<figure><img src="../../.gitbook/assets/image (1390).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (1390).png" alt=""><figcaption></figcaption></figure>
 
 Система автоматически вычисляет комиссию и показывает какая результирующая сумма попадет на счет Пользователя.
 
@@ -25,13 +25,13 @@
 
 Пользователь может скачать счет в формате pdf, нажав на кнопку **PDF.**
 
-<figure><img src="../../.gitbook/assets/image (1217).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (1217).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;<mark style="color:orange;">**Примечание. Сроки вывода средств по счету составляют 3 дня.**</mark>
 
 При успешном проведении оплаты статус счета меняется на _Исполнен_.
 
-![](<../../.gitbook/assets/image (1021).png>)
+![](<../../gitbook/assets/image (1021).png>)
 
 Всего статусы могут принимать значения:
 

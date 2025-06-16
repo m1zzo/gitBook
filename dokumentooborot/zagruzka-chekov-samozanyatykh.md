@@ -2,25 +2,25 @@
 
 Пользователь, заявившийся на раздел в качестве самозанятого, может предоставить чеки Заказчику по кнопке **Загрузить чек.**
 
-<figure><img src="../.gitbook/assets/image (497).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (497).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:orange;">**Примечание. Чек можно предоставить, только если заказчик является юридическим лицом на проекте.**</mark>
 
 После того, как счет был проведен, появится форма для прикрепления файла. Нажав на кнопку **Выберите файл,** необходимо выбрать сохранённый чек на вашем устройстве и сохранить изменения, нажав на кнопку **Сохранить**.
 
-<figure><img src="../.gitbook/assets/image (498).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (498).png" alt=""><figcaption></figcaption></figure>
 
 Чек отобразится во вкладке _Кассовые чеки_.
 
-<figure><img src="../.gitbook/assets/image (496).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (496).png" alt=""><figcaption></figcaption></figure>
 
 Заказчик может скачать чеки для передачи их в бухгалтерию для отчётности одним из способов:
 
 1. Скачать все чеки - скачивается zip-архив
 2. Скачать по отдельности, нажав на прикрепленный чек.
 
-<figure><img src="../.gitbook/assets/image (494).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (494).png" alt=""><figcaption></figcaption></figure>
 
 Удалить прикрепленный файл можно, нажав на иконку корзины.
 
-<figure><img src="../.gitbook/assets/image (495).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (495).png" alt=""><figcaption></figcaption></figure>

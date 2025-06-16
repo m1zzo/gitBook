@@ -2,4 +2,4 @@
 
 Во вкладке "Оплаченные тарифы" расположена табличная часть со списком выбранных тарифов. Табличная часть отражает информацию о параметрах выбранного тарифа.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (569).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (569).png" alt=""><figcaption></figcaption></figure>

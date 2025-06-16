@@ -4,7 +4,7 @@
 
 Для этого на странице организации нужно нажать на кнопку **Подтвердить данные.**
 
-<figure><img src="../../.gitbook/assets/image (1006).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (1006).png" alt=""><figcaption></figcaption></figure>
 
 Приложить к запросу необходимые документы для проверки:
 
@@ -12,7 +12,7 @@
 2. Копия паспорта руководителя или лица, действующего по доверенности;
 3. Доверенность на замещающее лицо.
 
-<figure><img src="../../.gitbook/assets/image (1478).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (1478).png" alt=""><figcaption></figcaption></figure>
 
 Необходимо получить согласие третьих лиц на передачу их персональных данных на обработку и поставить галочку в чекбокс.
 
@@ -20,6 +20,6 @@
 
 Если организация прошла верификацию, то ее статус изменится на "Проверенная". Руководитель организации получит уведомление о решении проверки.
 
-<figure><img src="../../.gitbook/assets/image (1414).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (1414).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:orange;">**Примечание. После верификации данные удаляются и не хранятся нами.**</mark>

@@ -4,13 +4,13 @@
 
 Создание групп происходит в правой колонке.
 
-<figure><img src="../../../.gitbook/assets/image (1897).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../gitbook/assets/image (1897).png" alt=""><figcaption></figcaption></figure>
 
 Для создания группы нужно ввести в поле "Наименование группы" ее название  и нажать на кнопку **Добавить**.
 
 Созданную группу можно также удалить, нажав на иконку корзины.
 
-<figure><img src="../../../.gitbook/assets/image (1902).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../gitbook/assets/image (1902).png" alt=""><figcaption></figcaption></figure>
 
 Далее в созданную группу распределяются вехи из левой колонки.
 
@@ -18,10 +18,10 @@
 
 Для удаления вехи нажмите на кнопку корзины.
 
-<figure><img src="../../../.gitbook/assets/image (1903).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../gitbook/assets/image (1903).png" alt=""><figcaption></figcaption></figure>
 
 Чтобы удалить группу, в которой уже распределены вехи, нужно очистить содержимое группы. Когда группа окажется пустой, появится иконка корзины напротив наименования группы.
 
-<figure><img src="../../../.gitbook/assets/image (1904).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../gitbook/assets/image (1904).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:orange;">**Примечание. Выполнение вех начинается с левой колонки, сверху вниз. Затем выполняются группы вех в правой колонке, также сверху вниз. Вехи по прохождению экспертиз и различных согласований должны указываться в каждой категории.**</mark>

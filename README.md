@@ -6,4 +6,4 @@ description: >-
 
 # Руководство пользователя
 
-![](.gitbook/assets/photo_2022-02-14_17-27-44.jpg)
+![](gitbook/assets/photo_2022-02-14_17-27-44.jpg)

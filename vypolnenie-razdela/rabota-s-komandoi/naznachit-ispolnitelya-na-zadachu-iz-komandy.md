@@ -4,7 +4,7 @@
 
 Для назначения исполнителя из команды при публикации задачи, нажать на кнопку **Назначение исполнителя.**
 
-<figure><img src="../../.gitbook/assets/image (225).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (225).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:orange;">**Примечание. При назначении исполнителя нельзя выставлять договорную стоимость. Поле "Цена" обязательно для заполнения.**</mark>
 
@@ -16,4 +16,4 @@
 
 Исполнитель с правом делегирования будет выделен в списке задач.
 
-<figure><img src="../../.gitbook/assets/image (227).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (227).png" alt=""><figcaption></figcaption></figure>

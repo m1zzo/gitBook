@@ -4,11 +4,11 @@
 
 При нажатии на кнопку **Выполнить о**ткрывается форма для заполнения номера заключения, даты и загрузки файлов с заключением.
 
-<figure><img src="../.gitbook/assets/image (1849).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (1849).png" alt=""><figcaption></figcaption></figure>
 
 Если было получено отрицательное заключение экспертизы, необходимо проставить галочку «Получено отрицательное заключение экспертизы».
 
-<figure><img src="../.gitbook/assets/image (1850).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (1850).png" alt=""><figcaption></figcaption></figure>
 
 После чего нажать на кнопку **Сохранить.**
 
@@ -16,10 +16,10 @@
 
 Для удаления заключения используется иконка корзины.
 
-<figure><img src="../.gitbook/assets/image (1852).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (1852).png" alt=""><figcaption></figcaption></figure>
 
 При положительном заключении экспертизы, статус экспертизы меняется на «Выполнено».
 
-<figure><img src="../.gitbook/assets/image (1853).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (1853).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:orange;">**Примечание. Нельзя изменить данные экспертизы после ее выполнения!**</mark>

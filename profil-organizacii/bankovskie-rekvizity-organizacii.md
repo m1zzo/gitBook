@@ -4,16 +4,16 @@
 
 Для добавления счета Руководитель организациинажимает на кнопку **Редактировать.**
 
-<figure><img src="../.gitbook/assets/image (1211).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (1211).png" alt=""><figcaption></figcaption></figure>
 
 Заполняет поля банковскими реквизитами. Всего можно создать 2 банковского счета и 1 казначейский счет.&#x20;
 
-<figure><img src="../.gitbook/assets/image (1225).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (1225).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:orange;">**Примечание.**</mark> <mark style="color:orange;">**Заполнение платежных реквизитов необходимо для всех операций.**</mark>
 
 При заполнении нескольких счетов, необходимо поставить галочку, какой счет будет использован по умолчанию. И сохранить данные, нажав на кнопку **Сохранить.**
 
-<figure><img src="../.gitbook/assets/image (1241).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (1241).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:orange;">**Примечание.  Наличие банковского счета является обязательным при создании проекта, где заказчик - юридическое лицо.**</mark>&#x20;

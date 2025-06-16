@@ -2,7 +2,7 @@
 
 Счетчик заявок в блоке "ГИП" показывает количество поданных заявок.
 
-<figure><img src="../../.gitbook/assets/image (256).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (256).png" alt=""><figcaption></figcaption></figure>
 
 Когда исполнитель подает заявку, у Заказчика появляется вкладка "_Заявки ГИП"_, перейдя в которую он может подробнее ознакомиться с заявкой.&#x20;
 
@@ -10,4 +10,4 @@
 
 Также Заказчик может перейти в чат платформы для разъяснения необходимых вопросов с исполнителем, нажав на иконку в виде сообщения.
 
-<figure><img src="../../.gitbook/assets/image (258).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (258).png" alt=""><figcaption></figcaption></figure>

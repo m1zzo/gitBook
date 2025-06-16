@@ -2,11 +2,11 @@
 
 Для создания запроса необходимо нажать на кнопку З**апросить**.
 
-<figure><img src="../../../.gitbook/assets/image (203).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../gitbook/assets/image (203).png" alt=""><figcaption></figcaption></figure>
 
 Откроется форма создания нового запроса.
 
-<figure><img src="../../../.gitbook/assets/image (204).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../gitbook/assets/image (204).png" alt=""><figcaption></figcaption></figure>
 
 В верхней части запроса располагается блок с выбором получателей запроса.
 
@@ -23,8 +23,8 @@
 
 После публикации каждому поставщику соответствующей специализации или поставщику в конкретной организации, в зависимости от выбора простановки галочки в запросе, приходит уведомление с запросом.
 
-<figure><img src="../../../.gitbook/assets/image (600).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../gitbook/assets/image (600).png" alt=""><figcaption></figcaption></figure>
 
 Запрос отображается на вкладке "&#x41E;_&#x431;орудование"_. При необходимости запрос можно удалить, нажав на иконку корзины.
 
-<figure><img src="../../../.gitbook/assets/image (205).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../gitbook/assets/image (205).png" alt=""><figcaption></figcaption></figure>

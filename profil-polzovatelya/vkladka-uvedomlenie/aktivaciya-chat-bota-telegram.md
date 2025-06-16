@@ -6,19 +6,19 @@
 
 Для настройки этой функции вам необходимо перейти в профиль пользователя, нажав на иконку вашего аватара.
 
-<figure><img src="../../.gitbook/assets/image (796).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (796).png" alt=""><figcaption></figcaption></figure>
 
 Перейти в редактирование своего профиля&#x20;
 
-<figure><img src="../../.gitbook/assets/image (797).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (797).png" alt=""><figcaption></figcaption></figure>
 
 И на закладке «_Уведомления_» в блоке Telegram вписать ваше публичное имя в чате Telegram.
 
-<figure><img src="../../.gitbook/assets/image (976).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (976).png" alt=""><figcaption></figcaption></figure>
 
 Чтобы его найти необходимо войти в настройки своего профиля в Telegram и нажать активную кнопку **Изменить профиль**. Откроется окно с вашими данными ФИО, телефон и ваш никнейм (публичный профиль).
 
-<img src="../../.gitbook/assets/image (701).png" alt="" data-size="original">
+<img src="../../gitbook/assets/image (701).png" alt="" data-size="original">
 
 Если оно у вас не заполнено, то вы можете кликнуть на значок редактирования этой строки символ «_Карандашик_». При этом откроется новое окно, в котором вы можете придумать ваш никнейм.
 

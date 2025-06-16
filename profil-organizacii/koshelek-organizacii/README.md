@@ -4,11 +4,11 @@
 
 1. Со страницы организации, перейти во вкладку "_Кошелек_".
 
-<figure><img src="../../.gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
 
 2\. Со страницы канбан-доски в блоке Кошелек, нажав кнопку О**ткрыть**.
 
-<figure><img src="../../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
 
 В вновь созданной организации находится: Отчет и Акт сверки.
 
@@ -18,12 +18,12 @@
 
 Данный отчет можно экспортировать в формате Excel, нажав на кнопку **Экспорт**.
 
-<figure><img src="../../.gitbook/assets/image (1237).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (1237).png" alt=""><figcaption></figcaption></figure>
 
 Во вкладке "_Акт сверки_" формируется акт взаиморасчетов организации, в котором отражаются расчеты организации, пополнение счета и вывод средств.
 
-<figure><img src="../../.gitbook/assets/image (1400).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (1400).png" alt=""><figcaption></figcaption></figure>
 
 Акт сверки формируется по периоду и (или) по договору. В таблице есть активные ссылки - Договор и акт, по которым можно быстро перейти в интересующий договор или акт сдачи-приемки работ.
 
-<figure><img src="../../.gitbook/assets/image (1228).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (1228).png" alt=""><figcaption></figcaption></figure>

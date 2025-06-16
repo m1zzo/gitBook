@@ -2,56 +2,56 @@
 
 Для выбора тарифа необходимо перейти во вкладку _Тарифы, которая находится_ в шапке страницы.
 
-<figure><img src=".gitbook/assets/image (968).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="gitbook/assets/image (968).png" alt=""><figcaption></figcaption></figure>
 
 Откроется страница с выбором тарифных планов.
 
-<figure><img src=".gitbook/assets/image (410).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="gitbook/assets/image (410).png" alt=""><figcaption></figcaption></figure>
 
 Поле "_Форма собственности"_ представляет с собой список доступных форм собственности пользователя. Необходимо выбрать ту форму собственности, к которой в дальнейшем будет привязана подписка.
 
-<figure><img src=".gitbook/assets/image (411).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="gitbook/assets/image (411).png" alt=""><figcaption></figcaption></figure>
 
 При выборе юридической формы собственности - поле _"Количество сотрудников"_ представляет собой список, в котором необходимо выбрать количество пользователей, которые будут пользоваться подпиской.
 
-<figure><img src=".gitbook/assets/image (412).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="gitbook/assets/image (412).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:orange;">**Примечание. Для формы собственности - физ.лицо и самозанятый, в поле**</mark><mark style="color:orange;">**&#x20;**</mark>_<mark style="color:orange;">**Количество сотрудников**</mark>_<mark style="color:orange;">**&#x20;**</mark><mark style="color:orange;">**подставляется автоматически 1.**</mark>
 
 При выборе базового тарифа максимальное количество сотрудников - 2 человека. Если в компании сотрудников больше, то данный тариф вам не подходит, о чем платформа внизу карточки тарифа выведет предупреждение.
 
-<figure><img src=".gitbook/assets/image (413).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="gitbook/assets/image (413).png" alt=""><figcaption></figcaption></figure>
 
 Поле _Количество месяцев_ - пользователь выбирает из списка количество месяцев действия подписк&#x438;_._
 
-![](<.gitbook/assets/image (789).png>)
+![](<gitbook/assets/image (789).png>)
 
 <mark style="color:orange;">**Примечание. Конечная стоимость формируется исходя из выбранной формы собственности, количества сотрудников и количества месяцев.**</mark>
 
 При недостаточном заполнении данных, Платформа оповестит об этом внизу карточки тарифа и не даст провести оплату.
 
-![](<.gitbook/assets/image (732).png>)
+![](<gitbook/assets/image (732).png>)
 
 При нажатии на кнопку **Выбрать** формируется счет на оплату.
 
 Просмотреть счета на оплату и другую информацию о параметрах выбранного тарифа можно, перейдя в свой **Кошелек** и далее во вкладку _Оплаченные тарифы_.
 
-<figure><img src=".gitbook/assets/image (416).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="gitbook/assets/image (416).png" alt=""><figcaption></figcaption></figure>
 
 Оплатить тариф ИП или организации возможно только если компания верифицирована. Если юридическое лицо или ИП не верифицирована, то платформа в конце карточки тарифа оповестит об этом.
 
-<figure><img src=".gitbook/assets/image (414).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="gitbook/assets/image (414).png" alt=""><figcaption></figcaption></figure>
 
 После оплаты все поля станут недоступны для редактирования, внизу карточки тарифа указан период использования.&#x20;
 
-<figure><img src=".gitbook/assets/image (415).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="gitbook/assets/image (415).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:orange;">**Примечание. Смена тарифа возможна только с базовой версии на Pro.**</mark>&#x20;
 
 После поступления средств Пользователю приходит уведомление об успешной оплате тарифа.
 
-<figure><img src=".gitbook/assets/image (417).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="gitbook/assets/image (417).png" alt=""><figcaption></figcaption></figure>
 
 За 3 дня до завершения периода по тарифу Пользователю приходит уведомление об окончании действия тарифа.
 
-<figure><img src=".gitbook/assets/image (1781).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="gitbook/assets/image (1781).png" alt=""><figcaption></figcaption></figure>

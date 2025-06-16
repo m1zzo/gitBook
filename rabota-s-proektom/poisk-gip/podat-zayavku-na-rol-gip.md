@@ -2,21 +2,21 @@
 
 ГИПам придет уведомление о начатом поиске.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1786).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (1786).png" alt=""><figcaption></figcaption></figure>
 
 Перейдя на страницу проекта по ссылке в уведомлении, ГИП может ознакомиться с условиями и если условия ему подходят, нажать на кнопку **Заявиться.**
 
-<figure><img src="../../.gitbook/assets/image (253).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (253).png" alt=""><figcaption></figcaption></figure>
 
 В открывшейся форме заполнить поля и нажать на кнопку **Заявиться**.
 
-<figure><img src="../../.gitbook/assets/image (254).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (254).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:orange;">**Примечание. Поле "Стоимость" будет заполнено суммой, которую указал Заказчик. ГИП может выставить свою стоимость, изменив значение.**</mark>
 
 Отозвать заявку можно, нажав на кнопку **Отозвать**.
 
-<figure><img src="../../.gitbook/assets/image (255).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (255).png" alt=""><figcaption></figcaption></figure>
 
 Отзыв заявки возможен, если _Заказчик_ еще не выбрал ГИПа.&#x20;
 

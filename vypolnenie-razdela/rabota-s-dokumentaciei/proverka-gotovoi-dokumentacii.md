@@ -4,13 +4,13 @@
 
 Проверка документации составляет 5 календарных дней.
 
-<figure><img src="../../.gitbook/assets/image (121).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (121).png" alt=""><figcaption></figcaption></figure>
 
 При проверке документации и недостаточном балансе в кошельке Заказчика, платформа выдаст предупреждающее сообщения о необходимости пополнить кошелек недостающей суммой.
 
 <mark style="color:orange;">**Примечание. Если на проекте нанят ГИП, то оплата за выполненные разделы будет совершаться с кошелька ГИП организации.**</mark>
 
-<figure><img src="../../.gitbook/assets/image (122).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (122).png" alt=""><figcaption></figcaption></figure>
 
 Если средств в кошельке ГИП недостаточно, то Заказчику необходимо пополнить кошелек ГИП. &#x20;
 
@@ -18,11 +18,11 @@
 
 Если средств для резервирования остатка по разделу достаточно, то Заказчик/ГИП нажимает на кнопку **Перевести средства**.
 
-<figure><img src="../../.gitbook/assets/image (123).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (123).png" alt=""><figcaption></figcaption></figure>
 
 Средства зарезервировались. Заказчик либо ГИП проверяет документацию, скачав ее с заполненной исполнителем формы.
 
-<figure><img src="../../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure>
 
 Если у проверяющего лица появились замечания, их необходимо указать в поле _Замечания_ и нажать кнопку **Отказать**.
 
@@ -32,4 +32,4 @@
 
 Исполнителю придет уведомление о необходимости подписать акт для завершения работ.
 
-<figure><img src="../../.gitbook/assets/image (1794).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (1794).png" alt=""><figcaption></figcaption></figure>

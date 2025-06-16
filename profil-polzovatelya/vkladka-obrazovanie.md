@@ -2,7 +2,7 @@
 
 На данной вкладке указывается информация об учебных заведениях, в который обучался пользователь.
 
-<figure><img src="../.gitbook/assets/image (917).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (917).png" alt=""><figcaption></figcaption></figure>
 
 * Наименование учебного заведения – полное наименование учебного заведения, в котором обучался пользователь;
 * Дата начала – дата начала обучения пользователя;
@@ -11,8 +11,8 @@
 
 После заполнение пользователь нажимает на кнопку **Сохранить**.
 
-<figure><img src="../.gitbook/assets/image (985).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (985).png" alt=""><figcaption></figcaption></figure>
 
 По кнопке **Удалить** происходит удаление карточки с заполненной информацией об образовании.
 
-<figure><img src="../.gitbook/assets/image (804).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (804).png" alt=""><figcaption></figcaption></figure>

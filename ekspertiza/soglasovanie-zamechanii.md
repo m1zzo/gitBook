@@ -6,4 +6,4 @@
 
 После нажатия на кнопку "**х**", которая означает «Вернуть на доработку». Исполнителю придет уведомление о доработке.
 
-<figure><img src="../.gitbook/assets/image (1876).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (1876).png" alt=""><figcaption></figcaption></figure>

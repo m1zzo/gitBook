@@ -2,45 +2,45 @@
 
 После того, как заявка исполнителя была принята Заказчиком, на странице проекта появляется вкладка _Договоры_, где отображаются все договорные документы по проекту.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (142).png" alt=""><figcaption></figcaption></figure>
 
 Внутри вкладки "_Договоры"_ представлен перечень договоров по проекту.
 
-<figure><img src="../../.gitbook/assets/image (144).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (144).png" alt=""><figcaption></figcaption></figure>
 
 Переплаты по разделу выделены красным цветом.
 
-<figure><img src="../../.gitbook/assets/image (145).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (145).png" alt=""><figcaption></figcaption></figure>
 
 В разделе проекта также появляется вкладка _Договоры_.&#x20;
 
 Статус раздела меняется на "_Заключение договора"_.
 
-<figure><img src="../../.gitbook/assets/image (146).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (146).png" alt=""><figcaption></figcaption></figure>
 
 Вкладка видна и доступна для Заказчика/ГИП/Помощника ГИП/Исполнителя. При этом Исполнитель видит только свои договоры.
 
 Чтобы открыть договор Пользователь нажимает на догово&#x440;**.**
 
-<figure><img src="../../.gitbook/assets/image (147).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (147).png" alt=""><figcaption></figcaption></figure>
 
 Ниже представлена страница договора.
 
 Скачать договор можно, нажав на кнопку **Скачать.** Договор, приложение будут скачены в формате PDF.
 
-<figure><img src="../../.gitbook/assets/image (1492).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (1492).png" alt=""><figcaption></figcaption></figure>
 
 Перейдя во вкладку "Приложение", по кнопке **Редактировать**, Заказчик и Исполнитель могут предложить свою версию договора с корректировкой сроков и стоимости работ.
 
-<figure><img src="../../.gitbook/assets/image (1558).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (1558).png" alt=""><figcaption></figcaption></figure>
 
 После нажатия на иконку **Редактировать**, открывается форма корректировки условий.
 
-<figure><img src="../../.gitbook/assets/image (619).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (619).png" alt=""><figcaption></figcaption></figure>
 
 Пользователь корректирует данные и нажимает на кнопку **Подписать**.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (517).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (517).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:orange;">**Примечание. Красным или зеленым цветом указывается разница меду прошлыми условиями и теми, которые указал пользователь в данный момент.**</mark>
 
@@ -52,19 +52,19 @@
 
 Система запрашивает подтверждение действия и оповещает, что процесс согласования будет перезапущен.
 
-<figure><img src="../../.gitbook/assets/image (692).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (692).png" alt=""><figcaption></figcaption></figure>
 
 Ранее существовавшие подписи договора аннулируются, необходимо повторное подписание документа.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (617).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (617).png" alt=""><figcaption></figcaption></figure>
 
 Заказчику приходит уведомление о необходимости подписать документ.
 
-<figure><img src="../../.gitbook/assets/image (690).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (690).png" alt=""><figcaption></figcaption></figure>
 
 Если вносить изменения в договор не требуется, то можно подписать договор внизу страницы договора или приложения, нажав на кнопку **Подписать.**
 
-<figure><img src="../../.gitbook/assets/image (663).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (663).png" alt=""><figcaption></figcaption></figure>
 
 Помимо простой электронной подписи документ можно подписать квалифицированной электронной подписью (КЭП) в соответствии №63-ФЗ от 06.04.2011г., то после нажатия на кнопку **Подписать** у вас отобразиться всплывающее окно, в котором вы можете выбрать **Простую электронную подпись (ПЭП)** или **Квалифицированную электронную подпись** (КЭП)
 
@@ -72,19 +72,19 @@
 
 При выборе КЭП будет выведен список всех действительных сертификатов.
 
-<figure><img src="../../.gitbook/assets/image (1905).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (1905).png" alt=""><figcaption></figcaption></figure>
 
 Выбрав один из них и нажав кнопку **Подписать** документ будет подписан при помощи КЭП и на экране будет отображён штамп подписи в соответствии с требованиями законодательства.
 
-<figure><img src="../../.gitbook/assets/image (1906).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (1906).png" alt=""><figcaption></figcaption></figure>
 
 После подписания ПЭП ставится дата подписи и отображается простая электронная подпись.
 
-<figure><img src="../../.gitbook/assets/image (651).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (651).png" alt=""><figcaption></figcaption></figure>
 
 Если по каким-либо причинам Исполнитель или Заказчик не готов заключать договор, то во вкладке "Приложение" можно отказаться от подписания договора, нажав на кнопку **Отказать**.
 
-<figure><img src="../../.gitbook/assets/image (615).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (615).png" alt=""><figcaption></figcaption></figure>
 
 Если договор подписан исполнителем, а Заказчик отказывается от подписания договора, то после нажатия на кнопку **Отказать** запускается процесс снятия Исполнителя с раздела договора.&#x20;
 
@@ -92,13 +92,13 @@
 
 После этого система направляет второй стороне уведомление об отказе подписания договора.
 
-<figure><img src="../../.gitbook/assets/image (654).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (654).png" alt=""><figcaption></figcaption></figure>
 
 **Скачивание документов**
 
 Подписанный документ можно скачать в 3-х вариантах. Для этого необходимо на странице просмотра этого документа нажать иконку вызова дополнительного меню «Троеточие». Отобразиться дополнительное меню с выбором варианта скачивания документа: скачать версию для печати, скачать с присоединённой подписью, скачать с отсоединенной подписью.
 
-<figure><img src="../../.gitbook/assets/image (1907).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (1907).png" alt=""><figcaption></figcaption></figure>
 
 На версии для печати отображается штампы с информацией о сертификате и его владельце.
 

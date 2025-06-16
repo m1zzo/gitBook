@@ -17,10 +17,10 @@
 
 После внесения изменений платформа уведомит вас о необходимости подписания созданных дополнительных соглашений.
 
-<figure><img src="../.gitbook/assets/image (1730).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (1730).png" alt=""><figcaption></figcaption></figure>
 
 При подписании любого дополнительного соглашения на изменение реквизитов платформа предложит пользователю подписать все остальные д/с, связанные с этими изменениями.
 
-<figure><img src="../.gitbook/assets/image (1757).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (1757).png" alt=""><figcaption></figcaption></figure>
 
 После нажатия на кнопку “Подписать все" все дополнительные соглашение будут подписаны с вашей стороны, а при нажатии “Подписать” только текущее.

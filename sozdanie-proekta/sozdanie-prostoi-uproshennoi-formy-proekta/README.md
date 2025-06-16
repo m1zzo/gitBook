@@ -20,10 +20,10 @@
 
 После заполнения полей необходимо сохранить введенные данные, нажав на кнопку **Сохранить.**
 
-<figure><img src="../../.gitbook/assets/image (228).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (228).png" alt=""><figcaption></figcaption></figure>
 
 После сохранения данных появится кнопка **Далее**, которая позволяет перейти к следующей вкладке.
 
 Для перехода к просмотру проекта нажать на кнопку **Просмотр проекта.**
 
-<figure><img src="../../.gitbook/assets/image (229).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (229).png" alt=""><figcaption></figcaption></figure>

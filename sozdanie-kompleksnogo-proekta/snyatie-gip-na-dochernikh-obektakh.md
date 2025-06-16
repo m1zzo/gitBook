@@ -4,10 +4,10 @@
 
 В случае необходимости снять ГИП на дочерних объектах, автор проекта переходит во вкладку _Объекты_ и, нажав на троеточие, выбирает пункт меню **Снять ГИПа.**
 
-<figure><img src="../.gitbook/assets/image (248).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (248).png" alt=""><figcaption></figcaption></figure>
 
 Указывает причину снятия и нажимает на кнопку **Снять**.
 
-<figure><img src="../.gitbook/assets/image (249).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (249).png" alt=""><figcaption></figcaption></figure>
 
 Транзакции, произведённые ГИПом, будут перенесены из личного кошелька ГИПа в кошелёк организации.

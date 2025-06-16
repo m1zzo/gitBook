@@ -4,11 +4,11 @@
 
 Чтобы добавить договор либо д/с, необходимо нажать на кнопку **Добавить документ.**
 
-<figure><img src="../.gitbook/assets/image (164).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (164).png" alt=""><figcaption></figcaption></figure>
 
 Открывается форма добавления документа&#x20;
 
-<figure><img src="../.gitbook/assets/image (165).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (165).png" alt=""><figcaption></figcaption></figure>
 
 Необходимо заполнить поля:
 
@@ -29,4 +29,4 @@
 
 Все добавленные договоры и д/с можно скачать, нажав кнопку **Скачать,** либо удалить, нажав на иконку корзины.
 
-<figure><img src="../.gitbook/assets/image (166).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (166).png" alt=""><figcaption></figcaption></figure>

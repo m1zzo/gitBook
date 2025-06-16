@@ -2,13 +2,13 @@
 
 Исполнитель может подать заявку на исполнение раздел&#x430;**, н**ажав на кнопку **Заявиться.**
 
-<figure><img src="../../.gitbook/assets/image (291).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (291).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:orange;">**Примечание. Подача заявки на раздел без необходимой специализации невозможна!**</mark>
 
 Откроется модальное окно, в котором необходимо заполнить поля.
 
-<figure><img src="../../.gitbook/assets/image (292).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (292).png" alt=""><figcaption></figcaption></figure>
 
 При указании заказчиком договорной стоимости, исполнитель сам указывает стоимость работ по разделу.&#x20;
 

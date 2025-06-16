@@ -2,7 +2,7 @@
 
 Исполнителю для выдачи ответа нужно нажать на кнопку "**+"**.&#x20;
 
-<figure><img src="../.gitbook/assets/image (1870).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (1870).png" alt=""><figcaption></figcaption></figure>
 
 В открывшейся форме исполнитель выбирает из выпадающего списка поля "Статус замечания" одно из значений:
 
@@ -14,26 +14,26 @@
 
 Указывает документацию, в которую внесены изменения. И нажимает на кнопку **Отправить на проверку**.
 
-<figure><img src="../.gitbook/assets/image (1871).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (1871).png" alt=""><figcaption></figcaption></figure>
 
 После чего загружает документацию, нажав на кнопку **Загрузить документацию**.
 
-<figure><img src="../.gitbook/assets/image (1872).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (1872).png" alt=""><figcaption></figcaption></figure>
 
 В открывшемся окне приложить документацию.
 
 <mark style="color:orange;">**Примечание: Нельзя выдать документацию, пока не будут выданы все ответы на замечания!**</mark>
 
-<figure><img src="../.gitbook/assets/image (1875).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (1875).png" alt=""><figcaption></figcaption></figure>
 
 После выдачи ответов, приложив документацию, нажать кн. **Отправить на проверку**.
 
-<figure><img src="../.gitbook/assets/image (1873).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (1873).png" alt=""><figcaption></figcaption></figure>
 
 Исполнитель также может выдать исправленную документацию на вкладке Документация, разрабатываемого раздела. Карточка будет иметь номер изменения, который будет присвоен в журнале изменений.
 
-<figure><img src="../.gitbook/assets/image (1874).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (1874).png" alt=""><figcaption></figcaption></figure>
 
 Заказчику, ГИПу придет уведомление о необходимости проверить ответы на замечание и проверить приложенную документацию.
 
-<figure><img src="../.gitbook/assets/image (1453).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (1453).png" alt=""><figcaption></figcaption></figure>

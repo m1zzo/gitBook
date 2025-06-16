@@ -2,7 +2,7 @@
 
 Организация, получившая средства за выполненные работы, может вывести средства, нажав на кнопку **Вывести**.
 
-<figure><img src="../../.gitbook/assets/image (584).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (584).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:orange;">**Примечание. Обратиться к данной услуге возможно только при полном указании данных в профиле организации.**</mark>
 
@@ -10,11 +10,11 @@
 
 При необходимости можно изменить счет зачисления денежных средств и выбрать нужный вам в выпающем списке.
 
-<figure><img src="../../.gitbook/assets/image (1268).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (1268).png" alt=""><figcaption></figcaption></figure>
 
 Система автоматически вычислит комиссию и покажет какая сумма попадет на счет организации.
 
-<figure><img src="../../.gitbook/assets/image (1230).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (1230).png" alt=""><figcaption></figcaption></figure>
 
 * Списываемая сумма – сумма списания со счета Платформы (списываемая сумма не может быть меньше 1000р.);
 * Валюта суммы – денежная единица суммы;
@@ -28,7 +28,7 @@
 
 **С**качать счет можно, нажав на кнопку **PDF.**
 
-<figure><img src="../../.gitbook/assets/image (1384).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (1384).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:orange;">**Примечание. Сроки вывода средств составляют 3 дня.**</mark>
 

@@ -4,14 +4,14 @@
 
 По кнопке **Выдать** происходит выдача предварительного решения.
 
-<figure><img src="../../.gitbook/assets/image (108).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (108).png" alt=""><figcaption></figcaption></figure>
 
 Для формирования запроса Исполнитель заполняет форму.
 
-<figure><img src="../../.gitbook/assets/image (109).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (109).png" alt=""><figcaption></figcaption></figure>
 
 И нажимает на кнопку **Отправить**.
 
 До проверки Заказчиком предварительное решение можно отозвать, нажав на кнопку **Вернуть на доработку**.
 
-<figure><img src="../../.gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>

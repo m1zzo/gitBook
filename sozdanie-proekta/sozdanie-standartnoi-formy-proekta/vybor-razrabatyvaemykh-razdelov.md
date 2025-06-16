@@ -4,7 +4,7 @@
 
 _Заказчик_ выбирает необходимые разделы для разработки.
 
-<figure><img src="../../.gitbook/assets/image (237).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbookassets/image (237).png" alt=""><figcaption></figcaption></figure>
 
 После выбора разделов, необходимо сохранить результат, нажав на кнопку **Сохранить** и перейти к следующей вкладке, нажав на кнопку **Далее**.
 

@@ -2,13 +2,13 @@
 
 Вначале поставщик знакомится с опросными листами, которые приложены в запросе.
 
-<figure><img src="../../../.gitbook/assets/image (208).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../gitbook/assets/image (208).png" alt=""><figcaption></figcaption></figure>
 
 Для того, чтобы поставщику рассмотреть запрос, на вкладке "&#x41E;_&#x431;орудование"_ необходимо раскрыть карточку, нажав на кнопку "Предложения".
 
 И в появившемся блоке нажать на кнопку "+".
 
-<figure><img src="../../../.gitbook/assets/image (207).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../gitbook/assets/image (207).png" alt=""><figcaption></figcaption></figure>
 
 В открывшейся форме Поставщик может сформировать коммерческое предложение.
 
@@ -22,14 +22,14 @@
 
 Затем нажать на кнопку **Отправить**.
 
-<figure><img src="../../../.gitbook/assets/image (209).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../gitbook/assets/image (209).png" alt=""><figcaption></figcaption></figure>
 
 Поставщик может отказаться от выполнения запроса, нажав на кнопку **Отказать.**
 
 &#x20;После того, как поставщик отказался от запроса, статус меняется.
 
-<figure><img src="../../../.gitbook/assets/image (210).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../gitbook/assets/image (210).png" alt=""><figcaption></figcaption></figure>
 
 Если поставщик сформировал КП и отправил, но возникла необходимость изменить данные, то запрос можно вернуть, нажав на кнопку **Вернуть на доработку**.
 
-<figure><img src="../../../.gitbook/assets/image (211).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../gitbook/assets/image (211).png" alt=""><figcaption></figcaption></figure>

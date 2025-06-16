@@ -6,11 +6,11 @@
 
 Для этого на странице проекта необходимо перейти на вкладку «_Объекты_» и нажать на кнопку **Создать объект**.
 
-<figure><img src="../.gitbook/assets/image (243).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (243).png" alt=""><figcaption></figcaption></figure>
 
 Откроется страница выбора типа объекта: площадной или линейный.
 
-<figure><img src="../.gitbook/assets/image (1534).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (1534).png" alt=""><figcaption></figcaption></figure>
 
 Выбрав тип объекта, откроется страница создания дочернего объекта.
 
@@ -18,7 +18,7 @@
 
 Пользователю, создавшему дочерний объект, необходимо заполнить поля на вкладках: Информация, Разделы, Файлы.
 
-<figure><img src="../.gitbook/assets/image (244).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (244).png" alt=""><figcaption></figcaption></figure>
 
 После сохранения данных и перехода к просмотру проекта, на вкладке «Объекты», можно увидеть созданные дочерние объекты.
 
@@ -35,4 +35,4 @@
 * Желтый круг - в разработке
 * Серый круг - не в работе
 
-<figure><img src="../.gitbook/assets/image (245).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (245).png" alt=""><figcaption></figcaption></figure>

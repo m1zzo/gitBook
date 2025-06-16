@@ -2,17 +2,17 @@
 
 Для пополнения счет предусмотрена кнопка **Счет**
 
-<figure><img src="../../.gitbook/assets/image (567).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (567).png" alt=""><figcaption></figcaption></figure>
 
 Руководитель может пополнить кошелек организации через формирование счета на оплату. &#x20;
 
 <mark style="color:orange;">**Примечание. Нельзя внести средства на счет при неполном указании данных.**</mark>
 
-<figure><img src="../../.gitbook/assets/image (1403).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (1403).png" alt=""><figcaption></figcaption></figure>
 
 После заполнение необходимых полей в профиле организации для формирования счета, открывается форма вносимых средств для пополнения.
 
-<figure><img src="../../.gitbook/assets/image (1249).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (1249).png" alt=""><figcaption></figcaption></figure>
 
 * Сумма – вносимая сумма на счет Платформы (При зачислении минимальная сумма платежа - 30 рублей);
 * Валюта суммы – денежная единица суммы;
@@ -25,7 +25,7 @@
 
 Организация может распечатать счет для передачи в бухгалтерию, нажав на кнопку **PDF**.
 
-<figure><img src="../../.gitbook/assets/image (522).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (522).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:orange;">**Примечание. Сроки внесения средств по счету составляют 3 дня.**</mark>
 

@@ -4,14 +4,14 @@
 
 Из списка выбрать пункт: _В организацию_.
 
-<figure><img src="../../.gitbook/assets/image (1013).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (1013).png" alt=""><figcaption></figcaption></figure>
 
 В поле "_Организация_" выбрать нужную организацию из списка, дополнить комментарий или оставить как есть и нажать на кнопку **Отправить.**
 
-<figure><img src="../../.gitbook/assets/image (1469).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (1469).png" alt=""><figcaption></figcaption></figure>
 
 Пользователю придет уведомление о приглашении в организацию.
 
-<figure><img src="../../.gitbook/assets/image (591).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (591).png" alt=""><figcaption></figcaption></figure>
 
 Перейдя по ссылке можно принять решение о вступлении в организации.

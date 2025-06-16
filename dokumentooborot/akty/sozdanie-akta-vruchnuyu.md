@@ -12,11 +12,11 @@
 
 Для того чтобы создать акт необходимо открыть договор и нажать кнопку меню - троеточие и в раскрывшемся списке выбрать пункт **Создать акт.**
 
-<figure><img src="../../.gitbook/assets/image (1800).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (1800).png" alt=""><figcaption></figcaption></figure>
 
 Откроется всплывающее окно
 
-<figure><img src="../../.gitbook/assets/image (1801).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (1801).png" alt=""><figcaption></figcaption></figure>
 
 В данном окне можно ввести актируемые суммы по доступным разделам этого договора.
 
@@ -36,10 +36,10 @@
 
 На созданном акте будет метка, отображаемая на странице акта, о том, что данный акт создан вручную.
 
-<figure><img src="../../.gitbook/assets/image (1803).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (1803).png" alt=""><figcaption></figcaption></figure>
 
 После подписания акта, данная метка сохраняется на платформе, но не отображается на скачиваемом pdf документе.
 
 До подписания акта, ГИП или автор проекта (заказчик) могут удалить данный акт. Для этого необходимо нажать на троеточие и выбрать **Удалить**.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1804).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (1804).png" alt=""><figcaption></figcaption></figure>

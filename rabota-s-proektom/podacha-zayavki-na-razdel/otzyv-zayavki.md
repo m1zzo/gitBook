@@ -4,6 +4,6 @@
 
 Для этого нужно перейти во вкладку _Заявки,_ нажать на кнопку **Изменить** и в предложенном списке выбрать кнопку **Отозвать заявку.**
 
-<figure><img src="../../.gitbook/assets/image (295).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (295).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;Раздел отозван.

@@ -6,14 +6,14 @@
 
 По кнопке **Редактировать** можно изменить отправленные данные.
 
-<figure><img src="../../.gitbook/assets/image (1250).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (1250).png" alt=""><figcaption></figcaption></figure>
 
 После проверки организации проставляется дата проверки, а Руководителю организации виден комментарий проверяющего.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1395).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (1395).png" alt=""><figcaption></figcaption></figure>
 
 Для повторной верификации нажать на кнопку **Редактировать** и, изменив информацию, отправить вновь на проверку.
 
 После того, как компания прошла проверку, статус меняется на: "_Проверенная_" и вкладка "_Проверка_" исчезает.
 
-<figure><img src="../../.gitbook/assets/image (1096).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (1096).png" alt=""><figcaption></figcaption></figure>

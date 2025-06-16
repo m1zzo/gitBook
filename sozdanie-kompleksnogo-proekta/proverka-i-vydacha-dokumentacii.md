@@ -4,4 +4,4 @@
 
 Подробнее:
 
-[https://app.gitbook.com/s/9i7xNc8kcFcprjyOHsZI/\~/changes/165/vypolnenie-razdela/rabota-s-dokumentaciei](../vypolnenie-razdela/rabota-s-dokumentaciei/)
+[https://appgitbook.com/s/9i7xNc8kcFcprjyOHsZI/\~/changes/165/vypolnenie-razdela/rabota-s-dokumentaciei](../vypolnenie-razdela/rabota-s-dokumentaciei/)

@@ -10,11 +10,11 @@
 
 Данное изменение внесено на основании уточнений полученных из разъяснений к бухгалтерскому учёту, а также на основании обычаев делового оборота, сложившихся в Российской Федерации.
 
-<figure><img src="../../../.gitbook/assets/image (1764).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../gitbook/assets/image (1764).png" alt=""><figcaption></figcaption></figure>
 
 После подписания электронной подписью Акт переходит в статус Зарегистрирован.
 
-<figure><img src="../../../.gitbook/assets/image (1799).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../gitbook/assets/image (1799).png" alt=""><figcaption></figcaption></figure>
 
 После регистрации акта:
 

@@ -6,7 +6,7 @@
 
 Вернуться на шаг назад можно, нажав на кнопку **Назад**.
 
-<figure><img src="../../.gitbook/assets/image (230).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (230).png" alt=""><figcaption></figcaption></figure>
 
 Создание проекта по простой (упрощенной) форме завершено.
 

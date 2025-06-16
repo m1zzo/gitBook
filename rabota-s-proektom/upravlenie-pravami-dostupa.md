@@ -4,7 +4,7 @@
 
 Добавлен аккордеон с раскрывающимся списком пользователей, имеющих доступ к проекту, сгруппированных по их роли в проекте.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 **Группа - управление проектом**
 
@@ -16,7 +16,7 @@
 
 Помощники главного инженера - сотрудники организации автора проекта, либо сотрудник организации главного инженера проекта, либо привлеченный сторонний специалист.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 **Кнопки управления**
 
@@ -24,29 +24,29 @@
 Удаление прав (корзинка, 3) — удаляет права у ГИП и помощников.\
 Делегирование прав (чек-бокс, 4) — даёт помощнику ГИП такие же права, как у ГИП.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 **Группа - исполнители**
 
 В этой группе исполнители разделов сгруппированы по специализациям, по организациям, с отображением прав доступа на разделы.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-![](<../.gitbook/assets/image (5).png>)  -  Раздел, на котором пользователь является исполнителем обозначен зелёной плашкой с иконкой «человек» с полной зелёной заливкой.
+![](<../gitbook/assets/image (5).png>)  -  Раздел, на котором пользователь является исполнителем обозначен зелёной плашкой с иконкой «человек» с полной зелёной заливкой.
 
-![](<../.gitbook/assets/image (6).png>)  -  Раздел, на который исполнителю выданы полные права обозначен зеленой плашкой с иконкой «два человечка» с полной заливкой.
+![](<../gitbook/assets/image (6).png>)  -  Раздел, на который исполнителю выданы полные права обозначен зеленой плашкой с иконкой «два человечка» с полной заливкой.
 
-![](<../.gitbook/assets/image (7).png>)  -  Раздел, на который исполнителю выданы ограниченные права обозначен серой плашкой с иконкой «два человечка» без заливки.
+![](<../gitbook/assets/image (7).png>)  -  Раздел, на который исполнителю выданы ограниченные права обозначен серой плашкой с иконкой «два человечка» без заливки.
 
-![](<../.gitbook/assets/image (8).png>)  -  Раздел, на который у пользователя нет прав обозначен оконтуренной плашкой с иконкой «Человечек с замком» с полной заливкой.
+![](<../gitbook/assets/image (8).png>)  -  Раздел, на который у пользователя нет прав обозначен оконтуренной плашкой с иконкой «Человечек с замком» с полной заливкой.
 
-![](<../.gitbook/assets/image (9).png>)  -  Раздел, который выполняется по договору обозначен зеленой плашкой с иконкой «Человечек внутри границ»
+![](<../gitbook/assets/image (9).png>)  -  Раздел, который выполняется по договору обозначен зеленой плашкой с иконкой «Человечек внутри границ»
 
 На плашках с возможностью управления правами есть иконка «залитый треугольник», вызывающая дополнительное меню управления.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure></div>
 
-![](<../.gitbook/assets/image (13).png>)
+![](<../gitbook/assets/image (13).png>)
 
 
 
@@ -54,17 +54,17 @@
 
 Для добавления новых пользователей без прав нужно нажать на кнопку «+ Список доступных исполнителей», выдать права по нужным разделам. После внесения изменений необходимо нажать кнопку «Добавить» для сохранения и пересчёта связей.
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 **Группа «Другое»**
 
 Добавление пользователей происходит через кнопку «Добавить права доступа».
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 Всплывающее окно содержит поля: организация (автора проекта или ГИПа), пользователь (сотрудник выбранной организации), роль (наблюдатель, нормоконтролёр, BIM-координатор)
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 **Права различных ролей**
 

@@ -4,7 +4,7 @@
 
 Добавить файлы можно по кнопке З**агрузите** или перетащить файлы в окно загрузки.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (238).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (238).png" alt=""><figcaption></figcaption></figure>
 
 Для продолжения заполнения нажать на кнопку **Далее**.&#x20;
 

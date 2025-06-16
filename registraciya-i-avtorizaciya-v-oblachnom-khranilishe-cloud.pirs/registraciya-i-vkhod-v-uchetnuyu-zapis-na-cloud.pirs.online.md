@@ -2,11 +2,11 @@
 
 После завершения установки запускаем клиент NextCloud и нажимаем кнопку **Войти.**
 
-<figure><img src="../.gitbook/assets/image (1158).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (1158).png" alt=""><figcaption></figcaption></figure>
 
 В окне Адрес сервера указываем cloud.pirs.online и нажимаем кнопку **Далее**.
 
-<figure><img src="../.gitbook/assets/image (1174).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (1174).png" alt=""><figcaption></figcaption></figure>
 
 После чего в браузере по умолчанию откроется страница для авторизации Учетной записи облачного хранилища.
 

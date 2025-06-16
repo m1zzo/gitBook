@@ -2,19 +2,19 @@
 
 После создания категории, чтобы добавить веху нужно нажать на иконку редактирования.
 
-<figure><img src="../../../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
 
 Откроется окно создания вех.
 
 Заполнить поле "_Наименование вехи_"  в левой колонке и нажать на кнопку **Добавить**.
 
-<figure><img src="../../../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
 
 Созданные вехи отобразятся в колонке "Без группировки" с активным чекбоксом.
 
 Нажатием на иконку удалить - удаляется веха.
 
-<figure><img src="../../../.gitbook/assets/image (1896).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../gitbook/assets/image (1896).png" alt=""><figcaption></figcaption></figure>
 
 Порядок выполнения вех можно изменять, перетаскивая их между столбцами или внутри групп.
 

@@ -4,13 +4,13 @@
 
 На вкладке "_Документация"_ в блоке "_Готовая документация"_ нажать на кнопку "+"
 
-<figure><img src="../../.gitbook/assets/image (116).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (116).png" alt=""><figcaption></figcaption></figure>
 
 Откроется модальная форма выдачи документации, в которую необходимо приложить документацию по разделу, указать комментарий, после чего нажать на кнопку "**Отправить на проверку**.&#x20;
 
 Если же исполнитель хочет отказаться от исполнения, то нажимает на кнопку **Отказаться от исполнения**, указав причину отказа в поле "_Комментарий_". &#x20;
 
-<figure><img src="../../.gitbook/assets/image (117).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (117).png" alt=""><figcaption></figcaption></figure>
 
 Исполнитель может выбирать файлы, которые необходимо отправить заказчику.
 
@@ -20,7 +20,7 @@
 
 Будут отправлены файлы, которые исполнитель отметил галочками.
 
-<figure><img src="../../.gitbook/assets/image (118).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (118).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:orange;">**Примечание. Загрузка файлов не должна превышать 200мб.**</mark>
 
@@ -28,4 +28,4 @@
 
 При необходимости исполнитель может вернуть документацию обратно до того, как ее проверит заказчик, нажав на кнопку **Вернуть на доработку**.
 
-<figure><img src="../../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>

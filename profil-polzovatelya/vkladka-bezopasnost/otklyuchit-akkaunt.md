@@ -2,6 +2,6 @@
 
 Отключение аккаунта происходит во вкладке "_Безопасность_" профиля пользователя.
 
-<figure><img src="../../.gitbook/assets/image (582).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (582).png" alt=""><figcaption></figcaption></figure>
 
 Отключить аккаунт можно, нажав на кнопку **Отключить.** После чего аккаунт будет удален.

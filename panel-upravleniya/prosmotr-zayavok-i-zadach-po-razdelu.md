@@ -4,7 +4,7 @@
 
 Кликнув на строку с названием раздела, пользователь переходит в блок _Задачи_.&#x20;
 
-<figure><img src="../.gitbook/assets/image (1322).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (1322).png" alt=""><figcaption></figcaption></figure>
 
 Блок Задачи поделен на две части.
 
@@ -12,7 +12,7 @@
 
 Также указаны сроки выполнения, исполнитель, форма собственности исполнителя, стоимость работ, наличие или отсутствие безопасной сделки.
 
-<figure><img src="../.gitbook/assets/image (1361).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (1361).png" alt=""><figcaption></figcaption></figure>
 
 В правой части указаны папки со счетчиками заданий, которые разделены на:
 
@@ -21,12 +21,12 @@
 * Проверка документации
 * Задачи
 
-<figure><img src="../.gitbook/assets/image (1312).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (1312).png" alt=""><figcaption></figcaption></figure>
 
 Открыть список заданий можно, нажав на стрелочку.
 
-<figure><img src="../.gitbook/assets/image (1355).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (1355).png" alt=""><figcaption></figcaption></figure>
 
 Чтобы перейти в раздел, нужно нажать на иконку стрелочки.
 
-<figure><img src="../.gitbook/assets/image (1332).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (1332).png" alt=""><figcaption></figcaption></figure>

@@ -2,10 +2,10 @@
 
 На странице организации во вкладке "_Заявки" &#x440;_&#x443;ководитель рассматривает запрос и принимает решение **Принять** или **Отказать** запрос на вступление в число сотрудников организации.
 
-<figure><img src="../../.gitbook/assets/image (995).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (995).png" alt=""><figcaption></figcaption></figure>
 
 Если запрос руководителем принят, то во вкладке _Сотрудники_ будет добавлена карточка сотрудника.&#x20;
 
 Если запрос отклонен, Пользователю придет уведомление об отказе.
 
-<figure><img src="../../.gitbook/assets/image (534).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (534).png" alt=""><figcaption></figcaption></figure>

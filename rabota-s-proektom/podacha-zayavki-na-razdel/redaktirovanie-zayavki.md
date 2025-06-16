@@ -4,8 +4,8 @@
 
 Для этого нужно перейти во вкладку _Заявки,_ нажать на кнопку **Изменить** и в предложенном списке выбрать кнопку **Редактировать заявку.**
 
-<figure><img src="../../.gitbook/assets/image (293).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (293).png" alt=""><figcaption></figcaption></figure>
 
 Откроется форма редактирования. После изменения данных, нажать на кнопку **Отправить**.
 
-<figure><img src="../../.gitbook/assets/image (294).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (294).png" alt=""><figcaption></figcaption></figure>

@@ -2,6 +2,6 @@
 
 Удалить помощника ГИП можно во вкладке Администрирование, нажав на иконку корзины, напротив удаляемого помощника.
 
-<figure><img src="../../.gitbook/assets/image (269).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (269).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:orange;">**Примечание. Снять помощника ГИП может только сам ГИП!**</mark>

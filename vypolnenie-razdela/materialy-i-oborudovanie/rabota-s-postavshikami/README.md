@@ -6,7 +6,7 @@
 
 Вверху располагается блок о поставщиках и их контактной информацией. Данный блок можно скрыть, нажав на иконку "_Глаз_".
 
-<figure><img src="../../../.gitbook/assets/image (202).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../gitbook/assets/image (202).png" alt=""><figcaption></figcaption></figure>
 
 Добавленные организацией опросные листы можно скачать, нажав на кнопку **Скачать**. Данные опросные листы будут скачаны в виде архива.
 
@@ -16,4 +16,4 @@
 
 Подробнее ознакомиться о возможности размещения опросных листов для подбора своего оборудования и материалов можно по ссылке:&#x20;
 
-[https://app.gitbook.com/s/9i7xNc8kcFcprjyOHsZI/sozdanie-organizacii/nastroiki-funkcionala-dlya-organizacii](../../../profil-organizacii/nastroiki-funkcionala-dlya-organizacii.md)
+[https://appgitbook.com/s/9i7xNc8kcFcprjyOHsZI/sozdanie-organizacii/nastroiki-funkcionala-dlya-organizacii](../../../profil-organizacii/nastroiki-funkcionala-dlya-organizacii.md)

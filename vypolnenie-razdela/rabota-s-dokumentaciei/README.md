@@ -4,4 +4,4 @@
 
 Вкладка разделена на 2 колонки: Предварительные решение и Готовая документация.
 
-<figure><img src="../../.gitbook/assets/image (94).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (94).png" alt=""><figcaption></figcaption></figure>

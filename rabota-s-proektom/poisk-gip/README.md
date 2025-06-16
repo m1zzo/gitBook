@@ -2,11 +2,11 @@
 
 Чтобы начать поиск ГИП, Заказчик на главной странице проекта нажимает кнопку **Искать.**
 
-<figure><img src="../../.gitbook/assets/image (251).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (251).png" alt=""><figcaption></figcaption></figure>
 
 Перед началом процесса Заказчик заполняет критерии для поиска ГИП и начинает поиск по кнопке **Поиск**.
 
-<figure><img src="../../.gitbook/assets/image (252).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (252).png" alt=""><figcaption></figcaption></figure>
 
 * Стоимость  – стоимость работ ГИП ( стоимость работ не может быть меньше 1000р.);
 * Форма собственности – форма собственности ГИП.

@@ -2,15 +2,15 @@
 
 Во вкладке "_Контрольные точки_" выбрать дерево объектов капитального строительства или линейных объектов.
 
-<figure><img src="../../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
 
 После выбора приступить к созданию категорий, нажав на кнопку **+ Создать категории.**
 
-<figure><img src="../../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
 
 В открывшейся форме из выпадающего списка поля "_Наименование раздела_" выбрать требуемую категорию и нажать на кнопку **Добавить**.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
 
 Категория будет добавлена в список, отмеченная активным чекбоксом.
 
@@ -18,6 +18,6 @@
 
 При нажатии на иконку корзины - категория удаляется и не будет отображаться в вехах вновь созданных проектах, но она не удалится в ранее созданных проектах.
 
-<figure><img src="../../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
 
 После добавления всех требуемых категорий, форму закрыть, нажав на крестик.

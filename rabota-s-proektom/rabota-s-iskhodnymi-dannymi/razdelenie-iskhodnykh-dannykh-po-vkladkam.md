@@ -12,11 +12,11 @@
 
 Таким образом вы можете разделить исходные данные и прикрепить их в соответствующих вкладках. Для всех стадий используется единый справочник исходных данных.
 
-<figure><img src="../../.gitbook/assets/image (318).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (318).png" alt=""><figcaption></figcaption></figure>
 
 Скачать отчет по исходным данным по выбранным или всем проектам можно на главной странице, нажав на  кнопку **Отчет по ИД.**
 
-<figure><img src="../../.gitbook/assets/image (477).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (477).png" alt=""><figcaption></figcaption></figure>
 
 После нажатия на кнопку откроется окно, в котором необходимо выбрать из выпадающего списка проект или _все проекты_, по которым необходимо сформировать отчёт.&#x20;
 
@@ -24,7 +24,7 @@
 
 Нажать на кнопку **Скачать**.
 
-<figure><img src="../../.gitbook/assets/image (478).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (478).png" alt=""><figcaption></figcaption></figure>
 
 Отчет будет скачан в формате PDF в следующей структуре:
 

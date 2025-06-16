@@ -2,10 +2,10 @@
 
 Для начала работ с экспертизой Заказчик или ГИП переходит в раздел экспертизы и нажимает на кнопку **Взять в работу**.&#x20;
 
-<figure><img src="../.gitbook/assets/image (162).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (162).png" alt=""><figcaption></figcaption></figure>
 
 В открывшемся окне указать начальный и конечный срок, после чего вновь нажимает на кнопку **Взять в работу**.
 
-<figure><img src="../.gitbook/assets/image (163).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (163).png" alt=""><figcaption></figcaption></figure>
 
 Кнопка **Сохранить в черновике** сохраняет данные, но не запускает процесс работы.

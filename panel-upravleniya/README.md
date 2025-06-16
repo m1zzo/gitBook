@@ -2,7 +2,7 @@
 
 В верхней части новой панели управления находятся:&#x20;
 
-<figure><img src="../.gitbook/assets/image (343).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (343).png" alt=""><figcaption></figcaption></figure>
 
 1. Навигация:
 
@@ -14,7 +14,7 @@
 * Отчет Заказчика/ГИПа
 * Отчет по исходным данным
 
-<figure><img src="../.gitbook/assets/image (344).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (344).png" alt=""><figcaption></figcaption></figure>
 
 2. Формы собственности пользователя.&#x20;
 
@@ -25,5 +25,5 @@
 3. Информация о подписке.
 4. Счетчик заявок, которые находятся на рассмотрении.
 
-<figure><img src="../.gitbook/assets/image (345).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (345).png" alt=""><figcaption></figcaption></figure>
 

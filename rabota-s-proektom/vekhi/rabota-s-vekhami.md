@@ -2,7 +2,7 @@
 
 Получив от исполнителя работ информацию о выполнении тех или иных работ, ГИП или Помощник ГИПа имеет возможность принять результат контрольной точки. Отображение вех происходит на страницы разрабатываемого раздела.
 
-<figure><img src="../../.gitbook/assets/Вехи 1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/Вехи 1 (1).png" alt=""><figcaption></figcaption></figure>
 
 Веху можно закрыть двумя способами:
 
@@ -14,15 +14,15 @@
 * Круг - автоматическое закрытия вехи
 * Изображение руки - ручное закрытие вехи
 
-<figure><img src="../../.gitbook/assets/Вехи 2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/Вехи 2 (1).png" alt=""><figcaption></figcaption></figure>
 
 При нажатии на иконку с ручным закрытием вехи, откроется модальная форма, в котором можно подтвердить принятие вехи или отменить приемку.
 
-<figure><img src="../../.gitbook/assets/image (1893).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (1893).png" alt=""><figcaption></figcaption></figure>
 
 После закрытия контрольной точки, веха меняет свой цвет на зеленый и перестает быть активной для редактирования.&#x20;
 
-<figure><img src="../../.gitbook/assets/Вехи 3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/Вехи 3.png" alt=""><figcaption></figcaption></figure>
 
 При действующей интеграции с программным обеспечением Billing данное действие открывает следующую часть бюджета, выделенного на разработку этого раздела, указанную в процентах между вехами.&#x20;
 

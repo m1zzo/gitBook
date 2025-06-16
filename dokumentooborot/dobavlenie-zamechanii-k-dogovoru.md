@@ -6,11 +6,11 @@
 
 ГИП или его помощник при нажатии на троеточие вызывает меню, в котором нажимает на кнопку **Добавить комментарий**.
 
-<figure><img src="../.gitbook/assets/image (1550).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (1550).png" alt=""><figcaption></figcaption></figure>
 
 В открывшемся окне, указать комментарий и опубликовать его, нажав на кнопку **Направить**.
 
-<figure><img src="../.gitbook/assets/image (1540).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (1540).png" alt=""><figcaption></figcaption></figure>
 
 Сообщение отобразится на странице документа с указанием даты публикации и ФИО, опубликовавшего комментарий.
 
@@ -18,14 +18,14 @@
 
 Исполнителям данный комментарий не отображается.
 
-<figure><img src="../.gitbook/assets/image (1556).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (1556).png" alt=""><figcaption></figcaption></figure>
 
 Количество комментариев не ограничено. В скобках указываются число скрытых комментариев.
 
 В поле комментарии всегда отображается последняя запись и при необходимости изучить все оставленные комментарии, пользователь может развернуть их, нажав на кнопку **Развернуть.** Свернуть все комментарии можно, нажав на кнопку **Свернуть**.&#x20;
 
-<figure><img src="../.gitbook/assets/image (1527).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (1527).png" alt=""><figcaption></figcaption></figure>
 
 Добавлен функционал, позволяющий ГИПу информировать руководителя, подписывающего договор о предоставлении сканов документов (Паспорт, ИНН, СНИЛС) в том случае, если заключается договор ГПХ (с физическим лицом).
 
-<figure><img src="../.gitbook/assets/image (1511).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (1511).png" alt=""><figcaption></figcaption></figure>

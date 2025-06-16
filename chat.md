@@ -6,7 +6,7 @@
 
 Если Пользователю Платформы написали, на иконке "Чат" отобразятся новые сообщения.
 
-<figure><img src=".gitbook/assets/image (1681).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="gitbook/assets/image (1681).png" alt=""><figcaption></figcaption></figure>
 
 Чат имеет древовидную структуру с группировкой контактов по проекту, который состоит из:&#x20;
 
@@ -14,7 +14,7 @@
 * Группа "_Заявки"_ - группа, в которую попадают пользователи, отправившие заявки. Это могут быть: заявка на исполнение раздела, ГИП, помощник ГИП;
 * Группа "_Участники" -_ персональный чат между Пользователем и Заказчиком.
 
-<figure><img src=".gitbook/assets/image (681).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="gitbook/assets/image (681).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:orange;">**Примечание: в персональный чат нельзя добавлять других пользователей.**</mark>
 
@@ -30,15 +30,15 @@
 
 Справа от названия комнаты отображается количество непрочитанных сообщений.
 
-<figure><img src=".gitbook/assets/image (642).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="gitbook/assets/image (642).png" alt=""><figcaption></figcaption></figure>
 
 После подачи заявки на исполнение раздела, создается комната _Заявки_.
 
-<figure><img src=".gitbook/assets/image (644).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="gitbook/assets/image (644).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;Исполнитель может перейти в группу _Заявки_ проекта нажав на кнопку **Чат** во вкладке _Заявки_ раздел&#x430;**.**
 
-<figure><img src=".gitbook/assets/image (1878).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="gitbook/assets/image (1878).png" alt=""><figcaption></figcaption></figure>
 
 После того, как Заказчик примет заявку Исполнителя на выполнение работ, кнопка **Чат,** будет вести в _Общий чат_ по проекту для обсуждения рабочих вопросов.
 

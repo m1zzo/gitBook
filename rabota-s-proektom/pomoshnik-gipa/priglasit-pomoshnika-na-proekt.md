@@ -2,16 +2,16 @@
 
 Если ГИП работает на проекте в качестве физ. лица, то пригласить помощника он может только со страницы профиля пользователя, о чем гласит подсказка.
 
-<figure><img src="../../.gitbook/assets/image (274).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (274).png" alt=""><figcaption></figcaption></figure>
 
 Для этого ГИП переходит в профиль пользователя и нажимает на кнопку **Пригласить** и в выпадающем списке нажимает на кнопку **На проект.**
 
-<figure><img src="../../.gitbook/assets/image (132).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (132).png" alt=""><figcaption></figcaption></figure>
 
 Открывается модальное окно, в котором необходимо выбрать проект, на который ГИП хочет пригласить помощника и роль, после заполнения нажать на кнопку **Добавить**.
 
-<figure><img src="../../.gitbook/assets/image (134).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (134).png" alt=""><figcaption></figcaption></figure>
 
 После приглашения помощнику придет уведомление.
 
-<figure><img src="../../.gitbook/assets/image (135).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (135).png" alt=""><figcaption></figcaption></figure>

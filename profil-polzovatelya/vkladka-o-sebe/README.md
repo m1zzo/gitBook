@@ -2,17 +2,17 @@
 
 В личном кабинете Пользователя необходимо нажать на кнопку **Редактировать.**
 
-<figure><img src="../../.gitbook/assets/image (1420).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (1420).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;Для загрузки аватарки необходимо нажать на кнопку **Заменить,** расположенной под аватаркой.
 
-<figure><img src="../../.gitbook/assets/image (530).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (530).png" alt=""><figcaption></figcaption></figure>
 
 _<mark style="color:orange;">**Примечание.**</mark>_ <mark style="color:orange;">**Нельзя загрузить аватарку с расширением image/tiff.**</mark>
 
 Заполнить вкладку "_О себе"_, где:
 
-<figure><img src="../../.gitbook/assets/image (950).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (950).png" alt=""><figcaption></figcaption></figure>
 
 * Имя – имя пользователя (обязательно к заполнению);
 * Фамилия – фамилия пользователя (обязательно к заполнению);
@@ -38,4 +38,4 @@ _<mark style="color:orange;">**Примечание.**</mark>_ <mark style="colo
 
 Для сохранения результатов, необходимо нажать внизу страницы кнопку **Сохранить.**
 
-<figure><img src="../../.gitbook/assets/image (795).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (795).png" alt=""><figcaption></figcaption></figure>

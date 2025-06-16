@@ -23,20 +23,20 @@
 
 Отображение исходных данных комплексного проекта.
 
-<figure><img src="../../.gitbook/assets/image (296).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (296).png" alt=""><figcaption></figcaption></figure>
 
 При выборе исходных данных через меню настройки
 
-<figure><img src="../../.gitbook/assets/image (297).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (297).png" alt=""><figcaption></figcaption></figure>
 
 открываются исходные данные, относящиеся к этой группе.
 
-<figure><img src="../../.gitbook/assets/image (298).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (298).png" alt=""><figcaption></figcaption></figure>
 
 Все исходные данные третьего типа, полученные для дочерних сооружений, необходимо прикреплять к родительскому проекту.&#x20;
 
 При загрузке дополнительных или обновлённых исходных данных, необходимо ставить галочку напротив слова «Актуальный», что указывает на актуальность данного документа.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (299).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (299).png" alt=""><figcaption></figcaption></figure>
 
 Если вы хотите сохранить ранее загруженный файл, то параметр актуальности у этого документа можно снять. При этом он перестанет отображаться в исходных данных проекта, и будет недоступен для скачивания.

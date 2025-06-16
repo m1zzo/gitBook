@@ -6,13 +6,13 @@
 
 <mark style="color:orange;">**Примечание. Функция**</mark><mark style="color:orange;">**&#x20;**</mark>_<mark style="color:orange;">**сменить ГИП**</mark>_<mark style="color:orange;">**&#x20;**</mark><mark style="color:orange;">**доступна только если Автор проекта и нанятый ГИП из одной организации.**</mark>
 
-<figure><img src="../.gitbook/assets/image (246).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (246).png" alt=""><figcaption></figcaption></figure>
 
 Открывается форма редактирования ГИПа, где автор проекта может выбрать нового ГИП из выпадающего списка.
 
 <mark style="color:orange;">**Примечание. Замена ГИПа происходит из числа сотрудников организации автора проекта.**</mark>
 
-<figure><img src="../.gitbook/assets/image (247).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (247).png" alt=""><figcaption></figcaption></figure>
 
 После выбора нового ГИП, нажать на кнопку **Сохранить.**
 

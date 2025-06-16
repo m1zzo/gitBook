@@ -4,22 +4,22 @@
 
 Для того чтобы просмотреть отчет по собственным проектам в качестве Заказчика или по проектам, в котором пользователь является ГИПом, пользователь в меню навигации наводит мышью на кнопку "Отчет" и выбирает из списка необходимый ему отчет.&#x20;
 
-<figure><img src=".gitbook/assets/image (1782).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="gitbook/assets/image (1782).png" alt=""><figcaption></figcaption></figure>
 
 Данная вкладка представляет собой линейный отчет с выбором задаваемых параметров: по проекту, по пользователям. Также отчеты можно сформировать по желаемому периоду.
 
-<figure><img src=".gitbook/assets/image (1375).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="gitbook/assets/image (1375).png" alt=""><figcaption></figcaption></figure>
 
 Если интервалы дат не заданы, ниже будут отображены все проекты организации.
 
 Также если график не возможно сформировать, система об этом выведет сообщение и график сформирован не будет.&#x20;
 
-<figure><img src=".gitbook/assets/image (1221).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="gitbook/assets/image (1221).png" alt=""><figcaption></figcaption></figure>
 
 Ниже названия проекта отображается количество всех задач и статус их выполнения.
 
-<figure><img src=".gitbook/assets/image (983).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="gitbook/assets/image (983).png" alt=""><figcaption></figcaption></figure>
 
 При нажатии на проект, открывается подробный отчет существующих и выполненных задач по проекту.
 
-<figure><img src=".gitbook/assets/image (1311).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="gitbook/assets/image (1311).png" alt=""><figcaption></figcaption></figure>

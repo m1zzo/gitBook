@@ -2,7 +2,7 @@
 
 Выдать документацию можно по кнопке **Выдать** во вкладке _Документация_.
 
-<figure><img src="../../.gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
 
 Исполнитель добавляет необходимую документацию, указывает комментарий.
 
@@ -10,26 +10,26 @@
 
 И нажать на кнопку **Отправить.**
 
-<figure><img src="../../.gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure>
 
 До проверки Заказчиком, предварительное решение можно отозвать, нажав на кнопку **Вернуть на доработку**.
 
-<figure><img src="../../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
 
 Проверяющие смежники и статус проверки можно посмотреть, кликнув на "Проверки".
 
-<figure><img src="../../.gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure>
 
 Нажав на кнопку **Посмотреть всех**, откроется форма, в которой будут указаны все смежники, которым направлено задание на проверку.
 
-<figure><img src="../../.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>
 
 Когда смежник проверит предварительное решение, исполнителю придет уведомление о результате проверки.
 
-<figure><img src="../../.gitbook/assets/image (426).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (426).png" alt=""><figcaption></figcaption></figure>
 
 Ознакомиться с замечаниями при отрицательном решении можно, раскрыв _Комментарий._
 
-<figure><img src="../../.gitbook/assets/image (103).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (103).png" alt=""><figcaption></figcaption></figure>
 
 После положительной проверки предварительного решения смежниками, его должен проверить Заказчик или лицо, представляющее Заказчика.

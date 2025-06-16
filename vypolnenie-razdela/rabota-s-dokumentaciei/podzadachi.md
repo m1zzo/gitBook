@@ -10,7 +10,7 @@
 
 При выборе в поле "_Вид документа или события_" значение "_Часть документа_" формируется карточка задачи, которая отобразится при достижении данной контрольной точки в проекте.
 
-<figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
 
 ## Выдача подзадачи
 
@@ -18,7 +18,7 @@
 
 Исполнитель нажимает на кнопку "Выдать", после чего открывается форма выдачи подзадачи.
 
-<figure><img src="../../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
 
 В форме по необходимости заполнить поле комментарий - это может быть описание содержания,  обязательно приложить файлы решения. Далее нажать на кнопку **Отправить.**
 
@@ -26,30 +26,30 @@
 
 Если решение не требуется, то обязательно заполнить поле _Комментарий_ и нажать на кнопку **Не требуется**.
 
-<figure><img src="../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
 
 У подзадач есть контрольный срок выдачи, который указывается под статусом.
 
 У просроченных подзадач контрольный срок окрашивается в красный цвет.
 
-<figure><img src="../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
 
 1. Под наименованием подзадачи указывается дата выдачи подзадачи.
 2. Под статусом подзадачи указан контрольный срок выдачи решения
 3. Комментарий, если при выдачи исполнитель его указал
 4. Во вложении отображаются выданная документация.
 
-<figure><img src="../../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
 
 Исполнитель при необходимости может вернуть свое решение на доработку, нажав на кнопку **Вернуть на доработку**.
 
-<figure><img src="../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
 
 ## Проверка подзадачи
 
 ГИП или Заказчик проверяет предоставленные документы на полноту и соответствие требованиям и принимает решение, нажав на кнопку **Рассмотреть.**
 
-<figure><img src="../../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
 
 * Если замечаний нет, ГИП утверждает подзадачу, нажав на кнопку **Принять.**
 
@@ -57,10 +57,10 @@
 
 Исполнитель получает уведомление о результате согласования.
 
-<figure><img src="../../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
 
 * В  случае обнаружения недостатков или несоответствий, ГИП может вернуть подзадачу исполнителю на доработку, не забыв заполнить поле замечания. Нажать на кнопку **Вернуть на доработку**.
 
 Исполнитель получает уведомление о результате согласования.
 
-<figure><img src="../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>

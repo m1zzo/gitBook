@@ -2,11 +2,11 @@
 
 ГИП может изменить условия договора в не зарегистрированном договоре, перейдя во вкладку Приложение и нажав на кнопку **Редактировать**.
 
-<figure><img src="../../.gitbook/assets/image (151).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (151).png" alt=""><figcaption></figcaption></figure>
 
 Открывается форма корректировки условий.
 
-<figure><img src="../../.gitbook/assets/image (1146).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (1146).png" alt=""><figcaption></figcaption></figure>
 
 ГИП изменяет условия и нажимает на кнопку **Сохранить.**
 

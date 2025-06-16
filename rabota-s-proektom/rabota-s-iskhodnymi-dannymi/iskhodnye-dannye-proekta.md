@@ -6,13 +6,13 @@
 
 На данной вкладке располагается перечень исходных данных.
 
-<figure><img src="../../.gitbook/assets/image (300).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (300).png" alt=""><figcaption></figcaption></figure>
 
 Для добавления технических условий нужно выбрать поле требуемых исходных данных и нажать на него.
 
 В открывшемся поле нажать на значок шестеренки.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (301).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (301).png" alt=""><figcaption></figcaption></figure>
 
 Открывается окно выбора технических условий.
 
@@ -22,7 +22,7 @@
 
 Самый верхний тумблер "_Выбрать все"_ позволяет в один клик отметить все технические условия, либо снять со всех отметку.
 
-<figure><img src="../../.gitbook/assets/image (304).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (304).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:orange;">**Примечание. При запросе исходных данных исполнителем, Заказчику, ГИПу придет уведомление.**</mark>
 
@@ -32,11 +32,11 @@
 
 Скрытые документы будут недоступны для просмотра при публикации разделов. Пользователь, не являющийся участником проекта, не сможет ознакомиться с этими исходными данными пока не станет участником проекта.
 
-<figure><img src="../../.gitbook/assets/image (306).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (306).png" alt=""><figcaption></figcaption></figure>
 
 Средняя колонка показывает роль ответственного. Возможность выбора чекбокса в данной колонке есть у Заказчика, ГИПа, Помощника ГИПа.
 
-<figure><img src="../../.gitbook/assets/image (305).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (305).png" alt=""><figcaption></figcaption></figure>
 
 При проставлении галочки в средней колонке, автоматически отмечается аналогичный чекбокс в левой колонке.
 
@@ -48,7 +48,7 @@
 
 Доступ к данной колонке имеют Заказчик, ГИП, Помощник ГИП, Исполнитель.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (307).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (307).png" alt=""><figcaption></figcaption></figure>
 
 Выбрав нужные технические условия Заказчик, ГИП, Помощник ГИП, Исполнитель нажимает на кнопку **Сохранить**.
 
@@ -60,7 +60,7 @@
 * Контр.срок - контрольный срок загрузки исходных данных;
 * Согласовано - дата фактической загрузки документа.
 
-<figure><img src="../../.gitbook/assets/image (309).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (309).png" alt=""><figcaption></figcaption></figure>
 
 Иконка "Галочка" - наличие минимум одного загруженного документа.
 
@@ -72,28 +72,28 @@
 
 Иконка "Человек" обозначает роль ответственного - Заказчик, который отвечает за предоставление исходных данных.
 
-<figure><img src="../../.gitbook/assets/image (308).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (308).png" alt=""><figcaption></figcaption></figure>
 
 Чтобы добавить документ, необходимо нажать на иконку "+".
 
-<figure><img src="../../.gitbook/assets/image (310).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (310).png" alt=""><figcaption></figcaption></figure>
 
 Откроется окно загрузки файлов. После вложения всех необходимых документов, нажать на кнопку **Закрыть**.
 
-<figure><img src="../../.gitbook/assets/image (311).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (311).png" alt=""><figcaption></figcaption></figure>
 
 После загрузки файлов в колонке "Согласовано" проставляется дата загрузки документа.
 
-<figure><img src="../../.gitbook/assets/image (312).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (312).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:orange;">**Примечание. В случае повторной загрузки файлов, предыдущая дата сменяется на новую.**</mark>
 
 Приложенную документацию можно скачать, нажав на кнопку **Скачать.**
 
-<figure><img src="../../.gitbook/assets/image (313).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (313).png" alt=""><figcaption></figcaption></figure>
 
 При необходимости дату запроса и контрольный срок можно изменить. Право на изменение контрольного срока есть у Заказчика, ГИПа, помощника ГИПа.
 
-<figure><img src="../../.gitbook/assets/image (314).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (314).png" alt=""><figcaption></figcaption></figure>
 
 При изменении контрольного срока ГИПу придет уведомление.

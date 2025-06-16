@@ -8,7 +8,7 @@ description: >-
 
 Для исполнения раздела пользователю необходимо выдать задания исполнителям смежных разделов. На странице с общей информацией по разделу появляется сообщение-напоминание.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (176).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (176).png" alt=""><figcaption></figcaption></figure>
 
 Для формирования исходящего задания перейдите во вкладку Задания, в блок Исходящие. Затем нажмите на кнопку "Выдать". Откроется окно формироания задания&#x20;
 
@@ -26,12 +26,12 @@ description: >-
 
 Либо, если задание для раздела не требуется, нажать на кнопку **Не требуется**.
 
-<figure><img src="../../.gitbook/assets/image (179).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (179).png" alt=""><figcaption></figcaption></figure>
 
 Отозвать задание  после его отправки можно только до проверки Заказчиком/ГИП по кнопке **Вернуть на доработку**.
 
-<figure><img src="../../.gitbook/assets/image (189).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (189).png" alt=""><figcaption></figcaption></figure>
 
 Исполнители на странице с информацией о проекте будут видеть сообщение о необходимости получить задания от смежников.
 
-<figure><img src="../../.gitbook/assets/image (336).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (336).png" alt=""><figcaption></figcaption></figure>

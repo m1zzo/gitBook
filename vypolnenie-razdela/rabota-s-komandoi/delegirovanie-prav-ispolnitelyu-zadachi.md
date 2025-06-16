@@ -10,7 +10,7 @@
 
 Заказчик или Исполнитель может поставить галочку в чекбокс "Делегирование прав на исполнение раздела", тем самым делегируя права по разделу исполнителю задачи.
 
-<figure><img src="../../.gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:orange;">**Примечание. Заказчик или Руководитель организации может назначить любого из своей организации, а Руководитель команды только из своей команды.**</mark>
 
@@ -18,10 +18,10 @@
 
 Задание отобразится у назначенного исполнителя с пометкой о делегировании прав.
 
-<figure><img src="../../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
 
 При нажатии на иконку карандашика, откроется модальное окно с возможностью снять делегирование прав.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure>
 
 После внесенных изменений, нажать на кн. **Сохранить**.

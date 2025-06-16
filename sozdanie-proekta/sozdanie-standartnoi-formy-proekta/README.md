@@ -2,7 +2,7 @@
 
 При создании проекта стандартной формы нужно выбрать назначение объекта: площадной или линейный, затем нажать на кнопку **Создать** в блоке "_Стандартная форма_"
 
-<figure><img src="../../.gitbook/assets/image (402).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbookassets/image (402).png" alt=""><figcaption></figcaption></figure>
 
 В стандартной форме проекта необходимо заполнить:
 
@@ -16,7 +16,7 @@
 
 Вид экспертизы необходимо заполнять до публикации разделов, так как это поле связано с условиями оплаты по разделам.
 
-<figure><img src="../../.gitbook/assets/image (233).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbookassets/image (233).png" alt=""><figcaption></figcaption></figure>
 
 8\. Регион – регион местонахождения объекта (заполняется только при указании России);
 
@@ -39,7 +39,7 @@ _<mark style="color:orange;">**Примечание.**</mark>_<mark style="color
 
 12\. Описание –дополнительная информация о проекте, которая может содержать уточнения, техническое задание или задание на проектирование к проекту, особые требования к разработке проекта.
 
-<figure><img src="../../.gitbook/assets/image (235).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbookassets/image (235).png" alt=""><figcaption></figcaption></figure>
 
 Поле "Банковский счет" заполняется автоматически счетом по умолчанию.
 
@@ -47,7 +47,7 @@ _<mark style="color:orange;">**Примечание.**</mark>_<mark style="color
 
 Чтобы устранить ошибку, нужно перейти в профиль организации и в режиме редактирования заполнить банковский счет.
 
-Как добавить банковский счет описано тут: [https://app.gitbook.com/s/9i7xNc8kcFcprjyOHsZI/\~/changes/EzBx1DOzBVKG7OsKIUGA/sozdanie-organizacii](../../profil-organizacii/)
+Как добавить банковский счет описано тут: [https://appgitbookcom/s/9i7xNc8kcFcprjyOHsZI/\~/changes/EzBx1DOzBVKG7OsKIUGA/sozdanie-organizacii](../../profil-organizacii/)
 
 После завершения заполнения формы необходимо сохранить проект, нажав на кнопку **Сохранить.**
 
@@ -55,4 +55,4 @@ _<mark style="color:orange;">**Примечание.**</mark>_<mark style="color
 
 Для перехода к просмотру проекта необходимо нажать на кнопку **Просмотр проекта.**
 
-<figure><img src="../../.gitbook/assets/image (236).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbookassets/image (236).png" alt=""><figcaption></figcaption></figure>

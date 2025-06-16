@@ -4,12 +4,12 @@
 
 Нажать на кнопку **Редактировать.** Тем самым вы перейдете в режим редактирования.
 
-<figure><img src="../../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
 
 В режиме редактирования активировать чек-бокс «_Контроль исполнения работ по контрольным точкам_». И нажать на кнопку "Сохранить".
 
-<figure><img src="../../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure>
 
 После активации чек-бокса появится вкладка "Контрольные точки".
 
-<figure><img src="../../.gitbook/assets/image (82).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (82).png" alt=""><figcaption></figcaption></figure>

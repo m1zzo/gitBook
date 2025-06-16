@@ -2,19 +2,19 @@
 
 Исполнитель раздела может выдавать задания смежнику многократно, перейдя во вкладку _Задания_, блок _Исходящие_ и нажав на кнопку **Выдать.**
 
-<figure><img src="../../.gitbook/assets/image (182).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (182).png" alt=""><figcaption></figcaption></figure>
 
 Проектировщики часто выдают одно задание для всех смежников, в таком случае нужно поставить галочку в чекбокс _Выдавать всем новым смежникам._ И если в проекте появится новый раздел, исполнителю раздела автоматически придет задани&#x435;_._
 
-<figure><img src="../../.gitbook/assets/image (181).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (181).png" alt=""><figcaption></figcaption></figure>
 
 В модальной форме нужно выбрать проект и разделы из списка, нажав на кнопку "+",  которым будет направлено задание.
 
-<figure><img src="../../.gitbook/assets/image (183).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (183).png" alt=""><figcaption></figcaption></figure>
 
 Приложить документы с заданием, заполнить поле "_Комментарий_"
 
-<figure><img src="../../.gitbook/assets/image (185).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (185).png" alt=""><figcaption></figcaption></figure>
 
 По завершении заполнения формы, нажать на кнопку **Отправить**.&#x20;
 
@@ -22,7 +22,7 @@
 
 Задание создано.
 
-<figure><img src="../../.gitbook/assets/image (186).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (186).png" alt=""><figcaption></figcaption></figure>
 
 При нажатии на кнопку **Комментарий,** откроется окно с комментарием к задаче.
 
@@ -30,8 +30,8 @@
 
 Можно отозвать задание до его выполнения смежником, путем нажатия на кнопку **Вернуть на доработку.**
 
-<figure><img src="../../.gitbook/assets/image (187).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (187).png" alt=""><figcaption></figcaption></figure>
 
 Каждой задаче присваивается статус и контрольный срок его выполнения.
 
-<figure><img src="../../.gitbook/assets/image (188).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (188).png" alt=""><figcaption></figcaption></figure>

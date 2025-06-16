@@ -2,4 +2,4 @@
 
 При выборе одного исполнителя на разделы родительского и одного или нескольких дочерних объектов, формируется один общий договор, в приложении которого перечисляются все исходные данные и разделы, сгруппированные по проектам.
 
-<figure><img src="../.gitbook/assets/image (1493).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (1493).png" alt=""><figcaption></figcaption></figure>

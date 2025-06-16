@@ -2,7 +2,7 @@
 
 Вкладка отражает информацию об опыте работы в отрасли, указанной пользователем.
 
-<figure><img src="../.gitbook/assets/image (800).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (800).png" alt=""><figcaption></figcaption></figure>
 
 Для сохранения результатов необходимо нажать на кнопку **Сохранить**.
 

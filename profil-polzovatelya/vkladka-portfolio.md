@@ -2,7 +2,7 @@
 
 Вкладка содержит примеры выполненных работ, позволяющие сформировать представление о пользователе как о специалисте.
 
-<figure><img src="../.gitbook/assets/image (499).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (499).png" alt=""><figcaption></figcaption></figure>
 
 По кнопке **Выбрать**, можно загрузить фотографию объекта, о котором заполняются данные.
 

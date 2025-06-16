@@ -4,13 +4,13 @@
 
 Для этого ГИП переходит в свой кошелек организации и нажимает на кнопку **Счет**.
 
-<figure><img src="../../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:orange;">**Примечание. Нельзя внести средства на счет при неполном указании данных.**</mark>
 
 После нажатия на кнопку **Счет**, открывается форма вносимых средств для пополнения.
 
-<figure><img src="../../.gitbook/assets/image (1249).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (1249).png" alt=""><figcaption></figcaption></figure>
 
 После заполнения полей, ГИП нажимает на кнопку **Подтвердить.**&#x20;
 

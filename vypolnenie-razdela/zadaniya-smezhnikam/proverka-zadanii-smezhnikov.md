@@ -4,15 +4,15 @@
 
 Для проверки заданий нужно раскрыть карточку, нажав на кнопку **Версии**_._
 
-<figure><img src="../../.gitbook/assets/image (190).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (190).png" alt=""><figcaption></figcaption></figure>
 
 Чтобы рассмотреть задание необходимо нажать на кнопку "✓**"**.
 
-<figure><img src="../../.gitbook/assets/image (191).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (191).png" alt=""><figcaption></figcaption></figure>
 
 И проверить задание.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (192).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (192).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:orange;">**Примечание: При отказе необходимо указание причины.**</mark>
 
@@ -20,4 +20,4 @@
 
 Исполнителю придет уведомление о решении.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (571).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (571).png" alt=""><figcaption></figcaption></figure>

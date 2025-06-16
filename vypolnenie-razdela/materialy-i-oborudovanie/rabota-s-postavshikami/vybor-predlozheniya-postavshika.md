@@ -2,13 +2,13 @@
 
 Если автору запроса подходит данное предложение, нажать на кнопку **Выбрать.**
 
-<figure><img src="../../../.gitbook/assets/image (212).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../gitbook/assets/image (212).png" alt=""><figcaption></figcaption></figure>
 
 Для перехода в чат с поставщиком, ниже кнопки выбора располагается кнопка **Чат**.
 
 После выбора предложения, автору запроса откроется модальное окно, в котором необходимо заполнить поле "Комментарий" критериями выбора коммерческого предложения и нажать на кнопку **Отправить.**
 
-<figure><img src="../../../.gitbook/assets/image (213).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../gitbook/assets/image (213).png" alt=""><figcaption></figcaption></figure>
 
 Поставщику придет уведомление о выборе его КП.
 
@@ -16,4 +16,4 @@
 
 Статус предложения изменится.
 
-<figure><img src="../../../.gitbook/assets/image (214).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../gitbook/assets/image (214).png" alt=""><figcaption></figcaption></figure>

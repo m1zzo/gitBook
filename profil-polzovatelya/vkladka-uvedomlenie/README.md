@@ -2,7 +2,7 @@
 
 На данной вкладке Пользователь может управлять E-mail-рассылкой и воспользоваться функцией получения уведомлений в Telegram.
 
-<figure><img src="../../.gitbook/assets/image (1276).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (1276).png" alt=""><figcaption></figcaption></figure>
 
 На данной вкладке пользователь может Разрешить/Запретить отправку уведомлений на email, путем проставления/не проставления галочки в поле "Разрешить отправку уведомлений на E-mail".
 
@@ -10,6 +10,6 @@
 
 Также присутствует интеграция с Telegram.
 
-Подробнее ознакомиться о том, как подклюить Telegram можно по ссылке: [https://app.gitbook.com/s/RTJkkXxg1AwnbZTFRRFZ/aktivaciya-chat-bota-telegram](aktivaciya-chat-bota-telegram.md)
+Подробнее ознакомиться о том, как подклюить Telegram можно по ссылке: [https://appgitbook.com/s/RTJkkXxg1AwnbZTFRRFZ/aktivaciya-chat-bota-telegram](aktivaciya-chat-bota-telegram.md)
 
 Чтобы изменения пришли в силу, нужно нажать на кнопку **Сохранить**.

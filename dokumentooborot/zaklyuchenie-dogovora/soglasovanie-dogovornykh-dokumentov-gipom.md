@@ -2,14 +2,14 @@
 
 ГИП может согласовывать договора, дополнительные соглашения, перейдя на страницу договора.
 
-<figure><img src="../../.gitbook/assets/image (149).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (149).png" alt=""><figcaption></figcaption></figure>
 
 На странице договора отображается тумблер "_Согласовать_**"**, переключив его в активное состояние, ГИП тем самым соглашается с условиями договора и согласовывает его.
 
 Тумблер "_Копия паспорта, ИНН, СНИЛС предоставлены_" может перевести в активное состояние Заказчик/ГИП, если описанные документы были предоставлены.
 
-<figure><img src="../../.gitbook/assets/image (150).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (150).png" alt=""><figcaption></figcaption></figure>
 
 Если документ согласовал ГИП, то у Заказчика и Исполнителя отображается надпись _Согласовано ГИП_.
 
-<figure><img src="../../.gitbook/assets/image (1176).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (1176).png" alt=""><figcaption></figcaption></figure>

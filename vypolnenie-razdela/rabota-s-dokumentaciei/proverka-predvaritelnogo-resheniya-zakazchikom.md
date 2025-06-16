@@ -2,7 +2,7 @@
 
 При проверке предварительного решения Заказчик (или лицо, представляющее Заказчика) нажимает на кнопку **Проверить.**
 
-<figure><img src="../../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
 
 Рассматривает все приложенные файлы, указывает комментарий, сумму для оплаты (если считает необходимым)&#x20;
 
@@ -14,26 +14,26 @@
 
 Выносит решение, нажав на одну из кнопок внизу формы - **Принять** или **Отказать**.
 
-<figure><img src="../../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:orange;">**Примечание. При отказе необходимо указать причину!**</mark>
 
 Когда предварительное решение было принято Заказчик/ГИП может отредактировать его, нажав на кнопку **Редактировать**.
 
-<figure><img src="../../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:orange;">**Примечание. Редактировать сумму предоплаты можно только у последнего решения.**</mark>
 
 В открывшейся форме в поле "_Сумма для оплаты без налога (НДС)_" изменить сумму оплаты и нажать на кнопку **Отправить**.
 
-<figure><img src="../../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:orange;">**Примечание. Сумма оплаты не может быть меньше ранее введенной суммы.**</mark>
 
 Выплаченная сумма указывается на карточке предварительного решения.
 
-<figure><img src="../../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
 
 Выплаченная сумма отражается на странице раздела во вкладке &#x418;_&#x43D;формация_, строкой _"Выплачено"._
 
-<figure><img src="../../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>

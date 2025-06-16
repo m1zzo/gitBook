@@ -8,6 +8,6 @@
 
 После любых изменений нажать на кнопку **Сохранить**.
 
-<figure><img src="../../.gitbook/assets/image (239).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (239).png" alt=""><figcaption></figcaption></figure>
 
 Для завершения заполнения нажать на кнопку **Завершить**.&#x20;

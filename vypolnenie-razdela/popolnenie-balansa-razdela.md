@@ -2,16 +2,16 @@
 
 Пополнить баланс раздела может Заказчик/ГИП, нажав на кнопку **Пополнить баланс** на странице раздела через меню действий.
 
-<figure><img src="../.gitbook/assets/image (341).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (341).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:orange;">**Примечание. Пополнить баланс раздела на сумму больше самого раздела нельзя!**</mark>
 
 В открывшейся форме необходимо ввести сумму пополнения раздела. И нажать на кнопку **Пополнить**.
 
-<figure><img src="../.gitbook/assets/image (342).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (342).png" alt=""><figcaption></figcaption></figure>
 
 Доступная сумма с учетом пополнения отражается на странице раздела во вкладке _Информация_ в строке _"Доступно"._
 
 Ниже строки доступной суммы располагается выплаченная сумма.
 
-<figure><img src="../.gitbook/assets/image (175).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (175).png" alt=""><figcaption></figcaption></figure>

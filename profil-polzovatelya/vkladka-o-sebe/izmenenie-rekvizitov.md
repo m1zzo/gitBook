@@ -4,10 +4,10 @@
 
 Чтобы изменить данные, необходимо отправить запрос с уточнением причин, нажав на кнопку **Запрос на изменение реквизитов**.
 
-<figure><img src="../../.gitbook/assets/image (964).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (964).png" alt=""><figcaption></figcaption></figure>
 
 Откроется модальная форма с заполненными полями, данные которых пользователь может изменить. Указать причину изменения персональных данных, приложить сканы паспорта и нажать на кнопку **Отправить**.
 
 Запрос перейдет администратору Платформы для рассмотрения.
 
-<figure><img src="../../.gitbook/assets/image (801).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (801).png" alt=""><figcaption></figcaption></figure>

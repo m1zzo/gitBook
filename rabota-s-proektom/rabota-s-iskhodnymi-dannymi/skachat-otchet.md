@@ -7,4 +7,4 @@
 * Общий - выгружает все отсутствующие исходные данные, согласно отображению на странице.&#x20;
 * По заказчику - структурированный список исходных данных с выбранной отметкой в колонке "По заказчику"
 
-<figure><img src="../../.gitbook/assets/image (317).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (317).png" alt=""><figcaption></figcaption></figure>

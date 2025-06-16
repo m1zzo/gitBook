@@ -4,15 +4,15 @@
 
 Желтая точка рядом с названием раздела говорит о необходимости проверки.
 
-<figure><img src="../../.gitbook/assets/image (112).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (112).png" alt=""><figcaption></figcaption></figure>
 
 Ознакомившись с заданием, смежник нажимает на кнопку **Проверить** для принятия решения.
 
-<figure><img src="../../.gitbook/assets/image (113).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (113).png" alt=""><figcaption></figcaption></figure>
 
 После чего откроется модальное окно проверки.
 
-<figure><img src="../../.gitbook/assets/image (114).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (114).png" alt=""><figcaption></figcaption></figure>
 
 Если замечаний к документации нет, то смежник нажимает на кн. **Принять.**
 
@@ -20,4 +20,4 @@
 
 После того, как смежник проверил документацию, статус проверки изменится.
 
-<figure><img src="../../.gitbook/assets/image (115).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../gitbook/assets/image (115).png" alt=""><figcaption></figcaption></figure>

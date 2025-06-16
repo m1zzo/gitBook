@@ -2,29 +2,29 @@
 
 Пользователь выбирает в верхней части дашборда необходимую форму собственности
 
-<figure><img src="../.gitbook/assets/image (346).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (346).png" alt=""><figcaption></figcaption></figure>
 
 в левой части откроется список проектов, относящийся к данной форме собственности.
 
-<figure><img src="../.gitbook/assets/image (347).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (347).png" alt=""><figcaption></figcaption></figure>
 
 Пользователь может создать проект, нажав на иконку "плюс".
 
-<figure><img src="../.gitbook/assets/image (348).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (348).png" alt=""><figcaption></figcaption></figure>
 
-Подробнее о создании проекта: [https://app.gitbook.com/s/9i7xNc8kcFcprjyOHsZI/\~/changes/171/sozdanie-proekta](../sozdanie-proekta/)
+Подробнее о создании проекта: [https://appgitbook.com/s/9i7xNc8kcFcprjyOHsZI/\~/changes/171/sozdanie-proekta](../sozdanie-proekta/)
 
 Переведя тумблер "_Выполнено_" в активное состояние, будут показаны все завершенные проекты, относительно данной формы собственности.
 
-<figure><img src="../.gitbook/assets/image (349).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (349).png" alt=""><figcaption></figcaption></figure>
 
 Если проект комплексный, то рядом с названием проекта будет изображена иконка папки, также об этом подскажет стрелочка рядом с проектом, нажав на которую, раскроется список объектов по проекту.
 
-<figure><img src="../.gitbook/assets/image (350).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (350).png" alt=""><figcaption></figcaption></figure>
 
 Строка поиска предназначена для быстрого поиска проектов по наименованию или части слова.
 
-<figure><img src="../.gitbook/assets/image (351).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (351).png" alt=""><figcaption></figcaption></figure>
 
 ## Проект -> раздел
 
@@ -36,21 +36,21 @@
 * Папка красного цвета показывает приостановку выполнения раздела исполнителем.
 * Папка серого цвета говорит об отсутствии проверок, заявок и приостановке работ.
 
-<figure><img src="../.gitbook/assets/image (353).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (353).png" alt=""><figcaption></figcaption></figure>
 
 Кликнув на группу разделов, раскроется список разделов, входящих в эту группу.&#x20;
 
-<figure><img src="../.gitbook/assets/image (355).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (355).png" alt=""><figcaption></figcaption></figure>
 
 Если раздел находится в статусе "Поиск исполнителя", то в строке раздела можно посмотреть количество заявок.&#x20;
 
 Нажав на стрелочку происходит переход на страницу раздела.
 
-<figure><img src="../.gitbook/assets/image (356).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (356).png" alt=""><figcaption></figcaption></figure>
 
 Если исполнитель заявлен на раздел, то в строке раздела можно посмотреть наличие исполнителя, сроки выполнения, стоимость работ, наличие безопасной сделки или ее отсутствие.
 
-<figure><img src="../.gitbook/assets/image (357).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (357).png" alt=""><figcaption></figcaption></figure>
 
 Желтая точка рядом с названием раздела говорит о наличии непроверенных заданий, документаций.
 
@@ -58,8 +58,8 @@
 
 Перейти на страницу раздела можно, нажав на стрелочку в конце строки раздела.
 
-<figure><img src="../.gitbook/assets/image (358).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (358).png" alt=""><figcaption></figcaption></figure>
 
 Посмотреть завершенные разделы можно, переведя тумблер "_Выполнено_" в активное состояние. Будут показаны только завершенные разделы.
 
-<figure><img src="../.gitbook/assets/image (359).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../gitbook/assets/image (359).png" alt=""><figcaption></figcaption></figure>
